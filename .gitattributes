@@ -1,0 +1,2 @@
+# 노트북은 자동 병합 금지 (JSON 파괴 방지)
+*.ipynb merge=binary
