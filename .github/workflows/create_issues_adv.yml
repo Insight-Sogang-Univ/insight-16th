@@ -45,30 +45,15 @@ jobs:
           NEXT_ASSIGNEE: ${{ github.event.inputs.next_session_assignee }}
         run: |
           members=(
-            "이지영:jiyoung-0427"
-            "고유빈:Yubin-Koh"
-            "조수현:chochoalice"
-            "조민정:jmj-99"
-            "신영은:912eun"
-            "권도영:osmund0228"
-            "안가은:peanuut24"
-            "구준모:kjms1019"
-            "장유경:jjang-yukyung"
-
-            "방서영:sy212-894"
             "권유철:kwonyc11"
             "최록희:rookkix"
             "정리나:Jeong-Rina"
-            "류시현:sihyun0529"
             "손영현:younghyun729"
             "김지윤:olgayooon"
-            "조대흠:damisoda"
             "전수현:suiyon"
             "김희연:hykim12118"
             "한민영:hmy9691-jpg"
             "이수빈:soobeen-lee"
-            "김진하:jxxxxnha"
-            "김민아:kmeenaa"
             "오규원:gw020328-oss"
           )
 
