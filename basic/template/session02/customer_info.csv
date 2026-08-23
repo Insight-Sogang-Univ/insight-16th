@@ -1,0 +1,1075 @@
+ACCOUNT_ID,GROSS_TRANSACTION_AMOUNT,MERCHANT_CATEGORY_LEVEL_1,CARD_TYPE,CARD_HOLDER_CITY,CARD_HOLDER_STATE,CARD_HOLDER_GENERATION,CARD_PRESENT_INDICATOR,SHOPPER_CLASSIFICATION
+A8028579,16.57,Restaurants and Food Services,Debit,WARRENVILLE,SC,Gen Z,Card Present,0
+A2882666,5.64,Restaurants and Food Services,Debit,ELIZABETH,NJ,Gen Z,Card Not Present,0
+A5262978,18.37,Restaurants and Food Services,Debit,PRATTVILLE,AL,Gen Z,Card Present,0
+A3983798,5.07,Restaurants and Food Services,Debit,NEDERLAND,TX,Gen Z,Unknown,0
+A6057516,1.62,Restaurants and Food Services,Debit,WEST SALEM,WI,Unknown,Card Present,2
+A6871661,23.91,Restaurants and Food Services,Credit,MANTECA,CA,Millennial,Card Present,0
+A2325253,24.58,Restaurants and Food Services,Debit,CLEVELAND,OH,Unknown,Card Present,0
+A1385672,13.14,Restaurants and Food Services,Debit,HAMILTON,OH,Millennial,Card Present,0
+A7240209,25.34,Restaurants and Food Services,Debit,CORDOVA,TN,Baby Boomer,Card Not Present,0
+A2429192,18.95,Restaurants and Food Services,Debit,MINNEAPOLIS,MN,Millennial,Card Present,1
+A2661051,53.15,Restaurants and Food Services,Credit,COLUMBUS,MS,Baby Boomer,Card Present,0
+A2428493,7.76,Restaurants and Food Services,Debit,BAINBRIDGE,NY,Millennial,Card Present,0
+A9895356,10.37,Restaurants and Food Services,Debit,MEMPHIS,TN,Gen X,Card Present,0
+A3623426,16.99,Restaurants and Food Services,Debit,AUBURN,AL,Millennial,Card Present,0
+A1886735,1.59,Restaurants and Food Services,Debit,RICHMOND,VA,Unknown,Unknown,1
+A3079715,14.57,Restaurants and Food Services,Debit,DOUBLE SPRINGS,AL,Millennial,Card Not Present,0
+A5105040,8.58,Restaurants and Food Services,Debit,BUENA VISTA,VA,Unknown,Card Present,0
+A7297657,9.37,Restaurants and Food Services,Debit,COLUMBUS,OH,Millennial,Card Present,0
+A5350253,7.31,Restaurants and Food Services,Debit,SAULT SAINTE MARIE,MI,Millennial,Card Present,2
+A1722323,35.49,Restaurants and Food Services,Debit,FLINT,MI,Gen Z,Unknown,0
+A8543069,2.78,Restaurants and Food Services,Credit,ARLINGTON,VA,Gen X,Card Present,0
+A6658438,27.64,Restaurants and Food Services,Debit,SANFORD,FL,Millennial,Unknown,0
+A9658919,5.48,Restaurants and Food Services,Debit,COMSTOCK PARK,MI,Millennial,Card Not Present,0
+A4823734,14.4,Restaurants and Food Services,Credit,APO,AP,Millennial,Card Present,2
+A2093977,20.57,Restaurants and Food Services,Debit,LACOMBE,LA,Gen X,Card Not Present,0
+A7861737,10.03,Restaurants and Food Services,Debit,HOUMA,LA,Gen Z,Card Not Present,0
+A8804123,26.16,Retail,Debit,MAX MEADOWS,VA,Unknown,Unknown,0
+A7603330,20.53,Restaurants and Food Services,Debit,GAINESVILLE,FL,Gen Z,Unknown,0
+A7863013,31.42,Restaurants and Food Services,Debit,MOBILE,AL,Unknown,Card Present,2
+A8527945,5.93,Restaurants and Food Services,Credit,MILPITAS,CA,Gen X,Card Present,0
+A7988537,20.28,Restaurants and Food Services,Debit,NORTH KINGSTOWN,RI,Gen Z,Card Not Present,2
+A2438413,15.88,Restaurants and Food Services,Debit,FAIRVIEW,UT,Gen X,Card Present,0
+A5509234,3.38,Restaurants and Food Services,Debit,BEMIDJI,MN,Gen X,Card Present,0
+A5330842,21.86,Restaurants and Food Services,Debit,SYRACUSE,UT,Millennial,Card Present,2
+A8586850,11.29,Restaurants and Food Services,Debit,NEW YORK,NY,Gen X,Card Present,0
+A6976354,35.42,Restaurants and Food Services,Debit,QUINCY,MA,Gen Z,Card Not Present,2
+A2438413,6.63,Restaurants and Food Services,Debit,OHATCHEE,AL,Millennial,Card Not Present,2
+A5174556,9.97,Restaurants and Food Services,Debit,FORNEY,TX,Millennial,Unknown,0
+A6527655,10.68,Restaurants and Food Services,Debit,HILLBURN,NY,Baby Boomer,Card Present,0
+A6289813,5.45,Restaurants and Food Services,Credit,OMAHA,NE,Gen X,Card Not Present,0
+A1256426,10.53,Restaurants and Food Services,Credit,EL PASO,TX,Baby Boomer,Card Present,2
+A1739118,11.68,Restaurants and Food Services,Debit,ALAMOGORDO,NM,Baby Boomer,Card Present,0
+A5864740,15.25,Restaurants and Food Services,Debit,DELTONA,FL,Millennial,Card Present,0
+A7055250,7.97,Restaurants and Food Services,Debit,EAU CLAIRE,WI,Millennial,Card Present,0
+A5151825,25.5,Restaurants and Food Services,Debit,SAN DIEGO,CA,Gen X,Card Present,0
+A6712963,3.48,Restaurants and Food Services,Debit,JOLIET,IL,Millennial,Card Present,0
+A9968268,4.23,Restaurants and Food Services,Debit,LINTON,IN,Baby Boomer,Card Present,2
+A1064596,3.87,Restaurants and Food Services,Debit,CLINTON TOWNSHIP,MI,Millennial,Card Present,0
+A1255242,31.15,Restaurants and Food Services,Debit,FORT GRATIOT,MI,Unknown,Card Present,0
+A1714160,5.11,Restaurants and Food Services,Debit,HOWELL,MI,Millennial,Card Not Present,0
+A1258056,4.76,Restaurants and Food Services,Debit,KALAMAZOO,MI,Unknown,Card Present,0
+A9956072,10.15,Restaurants and Food Services,Debit,NEWPORT,KY,Millennial,Card Present,0
+A1850714,5.08,Restaurants and Food Services,Debit,WILLIAMSTON,SC,Millennial,Card Present,2
+A9911995,6.21,Restaurants and Food Services,Debit,CROWLEY,TX,Gen Z,Card Present,0
+A6765864,35.18,Restaurants and Food Services,Debit,INDEPENDENCE,MO,Gen Z,Card Present,0
+A6769425,19.82,Restaurants and Food Services,Debit,JACKSONVILLE,FL,Millennial,Unknown,0
+A9594742,2.33,Restaurants and Food Services,Debit,THREE RIVERS,MI,Baby Boomer,Card Not Present,0
+A4090799,24.71,Restaurants and Food Services,Credit,ORCHARD PARK,NY,Millennial,Card Not Present,2
+A1638123,24.47,Restaurants and Food Services,Debit,WOODS CROSS,UT,Millennial,Card Present,0
+A6118408,19.48,Restaurants and Food Services,Debit,TOLEDO,WA,Gen X,Unknown,0
+A8314142,5.92,Restaurants and Food Services,Debit,KAWKAWLIN,MI,Millennial,Card Present,0
+A7546259,12.41,Restaurants and Food Services,Credit,COBB ISLAND,MD,Millennial,Card Present,2
+A8735369,19.02,Restaurants and Food Services,Debit,WESTON,OH,Millennial,Card Present,0
+A2905742,10.49,Restaurants and Food Services,Debit,PIEDMONT,AL,Gen X,Card Present,0
+A7579405,12.49,Restaurants and Food Services,Debit,STRUTHERS,OH,Gen X,Card Present,2
+A2148282,7.81,Restaurants and Food Services,Debit,MILWAUKEE,WI,Millennial,Card Present,0
+A5335734,9.13,Restaurants and Food Services,Debit,OAKDALE,LA,Gen X,Card Present,0
+A6276408,10.32,Restaurants and Food Services,Debit,APOPKA,FL,Gen Z,Card Present,0
+A7156588,6.0,Restaurants and Food Services,Debit,ENTERPRISE,AL,Millennial,Unknown,0
+A9240442,12.81,Restaurants and Food Services,Debit,NORTH RICHLAND HILLS,TX,Millennial,Card Present,0
+A7740974,14.93,Restaurants and Food Services,Debit,LITTLE ROCK,AR,Gen Z,Card Present,0
+A6994861,6.44,Restaurants and Food Services,Debit,TY TY,GA,Millennial,Card Present,2
+A1538560,9.77,Restaurants and Food Services,Debit,CLEVELAND,OH,Millennial,Card Present,0
+A4769950,11.55,Restaurants and Food Services,Debit,MINNEAPOLIS,MN,Millennial,Card Present,0
+A1102701,8.36,Restaurants and Food Services,Debit,SUITLAND,MD,Baby Boomer,Card Present,1
+A2808428,17.66,Restaurants and Food Services,Debit,CANTON,MI,Millennial,Card Present,0
+A2811650,5.52,Restaurants and Food Services,Debit,FREEPORT,ME,Baby Boomer,Card Present,0
+A8276441,3.98,Restaurants and Food Services,General Purpose,FORT WORTH,TX,Gen X,Unknown,0
+A8290005,1.99,Consumer Services,Debit,JACKSONVILLE,FL,Gen X,Card Present,1
+A6817729,10.37,Restaurants and Food Services,Debit,CLEVELAND,OH,Gen Z,Card Not Present,0
+A3079360,5.79,Restaurants and Food Services,Debit,DUBUQUE,IA,Gen Z,Card Present,0
+A2986498,23.11,Restaurants and Food Services,Debit,HOUSTON,TX,Gen Z,Card Present,0
+A9572339,22.13,Restaurants and Food Services,Debit,KNOXVILLE,TN,Gen X,Card Present,2
+A4727693,1.02,Restaurants and Food Services,Debit,KALAMAZOO,MI,Unknown,Unknown,1
+A1559973,1.08,Restaurants and Food Services,Debit,PORTLAND,ME,Baby Boomer,Card Not Present,0
+A6483353,13.36,Restaurants and Food Services,Credit,MIAMI,FL,Millennial,Card Present,0
+A7838636,5.13,Restaurants and Food Services,Debit,COLUMBUS,OH,Baby Boomer,Card Present,0
+A8984488,19.55,Restaurants and Food Services,Debit,TALLAHASSEE,FL,Gen Z,Card Present,2
+A7070591,10.42,Restaurants and Food Services,Debit,BALM,FL,Baby Boomer,Card Present,0
+A7733338,13.48,Restaurants and Food Services,Debit,ELKHART,IN,Unknown,Card Present,0
+A7867225,19.05,Restaurants and Food Services,Debit,BROWNSBURG,IN,Unknown,Card Present,0
+A2722027,21.76,Restaurants and Food Services,Debit,VANCOUVER,WA,Gen X,Unknown,0
+A6688272,1.89,Restaurants and Food Services,Debit,MILTON,FL,Unknown,Card Present,2
+A8894847,3.73,Restaurants and Food Services,Credit,CHATSWORTH,CA,Baby Boomer,Card Present,0
+A7178435,6.46,Restaurants and Food Services,Debit,SEABROOK,SC,Gen X,Card Not Present,0
+A7354870,13.38,Restaurants and Food Services,Credit,BROWNSBURG,IN,Baby Boomer,Card Present,0
+A6876714,9.85,Restaurants and Food Services,Debit,ROSEMOUNT,MN,Millennial,Card Present,0
+A9211203,5.12,Restaurants and Food Services,Debit,VICKSBURG,MI,Millennial,Card Present,0
+A9949442,9.67,Restaurants and Food Services,Debit,MILTON,FL,Baby Boomer,Card Present,0
+A1864876,9.07,Restaurants and Food Services,Debit,CHULA VISTA,CA,Gen Z,Card Present,0
+A1410626,20.37,Restaurants and Food Services,Debit,HUNTINGTON BEACH,CA,Gen X,Unknown,0
+A8081227,19.4,Restaurants and Food Services,Debit,JACKSONVILLE BEACH,FL,Gen Z,Unknown,0
+A8988811,18.69,Restaurants and Food Services,Debit,CHARLOTTE,NC,Baby Boomer,Card Present,0
+A4121716,42.59,Restaurants and Food Services,Debit,DEERFIELD,KS,Gen X,Card Present,0
+A3373731,9.98,Restaurants and Food Services,Debit,LEXINGTON,KY,Baby Boomer,Card Present,0
+A1638123,9.15,Restaurants and Food Services,Debit,FORT MILL,SC,Unknown,Unknown,0
+A2432704,53.12,Restaurants and Food Services,Debit,MONTGOMERY,AL,Millennial,Card Not Present,0
+A5596489,14.75,Restaurants and Food Services,Debit,CHARLOTTE,NC,Baby Boomer,Card Present,0
+A7561380,9.42,Restaurants and Food Services,Debit,KNOX,IN,Millennial,Card Present,0
+A2175497,33.25,Restaurants and Food Services,Credit,SACRAMENTO,CA,Gen X,Card Present,1
+A1373474,3.01,Restaurants and Food Services,Debit,NORTH BENTON,OH,Millennial,Card Present,0
+A3984828,1.01,Restaurants and Food Services,Credit,LONG BEACH,CA,Gen X,Card Not Present,2
+A1627536,27.35,Restaurants and Food Services,Debit,MOUNT CROGHAN,SC,Gen X,Card Present,0
+A1639694,29.79,Restaurants and Food Services,Debit,PAYSON,UT,Millennial,Card Present,0
+A3213269,10.27,Restaurants and Food Services,Debit,EUNICE,LA,Gen X,Card Present,0
+A9076976,0.54,Restaurants and Food Services,Debit,SHAKOPEE,MN,Gen X,Card Present,0
+A9536401,12.19,Restaurants and Food Services,Debit,SHELBY,NC,Gen Z,Unknown,0
+A3936376,2.91,Restaurants and Food Services,Debit,SELINSGROVE,PA,Gen X,Card Present,0
+A3890175,15.39,Restaurants and Food Services,Debit,REYNOLDSBURG,OH,Unknown,Card Present,0
+A4278754,5.72,Restaurants and Food Services,Credit,ANGEL FIRE,NM,Baby Boomer,Card Present,2
+A4428071,3.49,Restaurants and Food Services,Credit,DULUTH,GA,Gen X,Card Not Present,0
+A7572999,8.04,Restaurants and Food Services,Credit,MADISON,AL,Gen X,Card Not Present,2
+A5228466,44.6,Restaurants and Food Services,Debit,LANCASTER,SC,Gen X,Card Present,0
+A6658438,6.88,Restaurants and Food Services,Debit,KATY,TX,Unknown,Card Present,0
+A8725966,15.79,Restaurants and Food Services,Debit,BRISTOL,TN,Gen X,Card Present,2
+A2197722,8.53,Restaurants and Food Services,Debit,KNOXVILLE,TN,Gen X,Card Present,1
+A9600746,19.8,Restaurants and Food Services,Debit,PALMDALE,CA,Unknown,Card Not Present,0
+A6104534,1.99,Restaurants and Food Services,Debit,MAPLE GROVE,MN,Millennial,Card Not Present,0
+A9649686,3.24,Restaurants and Food Services,Debit,CHICAGO,IL,Baby Boomer,Card Present,0
+A2577940,3.74,Restaurants and Food Services,Debit,ORLANDO,FL,Gen X,Card Present,0
+A6078795,24.67,Restaurants and Food Services,Debit,DALLAS,TX,Gen X,Card Present,0
+A3675600,16.99,Restaurants and Food Services,Credit,LA MESA,,Millennial,Card Present,2
+A6074689,17.96,Restaurants and Food Services,Debit,HASTINGS,MN,Millennial,Unknown,0
+A5969126,7.05,Restaurants and Food Services,Debit,KING OF PRUSSIA,PA,Millennial,Card Present,2
+A1102701,5.6,Restaurants and Food Services,Debit,JACKSONVILLE,FL,Unknown,Card Present,0
+A6328220,10.94,Restaurants and Food Services,Debit,APOPKA,FL,Millennial,Card Present,1
+A3495469,19.79,Restaurants and Food Services,Debit,DUBUQUE,IA,Gen Z,Card Present,0
+A7483216,1.61,Restaurants and Food Services,Debit,LAKE CHARLES,LA,Millennial,Card Present,0
+A1964287,9.98,Restaurants and Food Services,Debit,DRUMS,PA,Gen X,Card Not Present,2
+A9199168,2.02,Restaurants and Food Services,Debit,CAMDEN,NJ,Gen Z,Card Present,0
+A5650186,13.45,Restaurants and Food Services,Credit,WAVERLY,MN,Unknown,Card Present,0
+A6768218,33.01,Restaurants and Food Services,Debit,DENVER,CO,Millennial,Card Present,0
+A2684462,35.89,Restaurants and Food Services,Debit,ABERDEEN,MD,Gen Z,Card Present,0
+A3507421,5.29,Restaurants and Food Services,Debit,HOUSTON,TX,Millennial,Card Present,0
+A8590797,39.49,Restaurants and Food Services,Debit,HENRICO,VA,Unknown,Card Not Present,2
+A5275557,7.45,Restaurants and Food Services,Debit,EUCLID,OH,Gen X,Card Present,0
+A6043313,16.84,Restaurants and Food Services,Debit,JACKSONVILLE,FL,Gen X,Unknown,0
+A4298659,10.11,Restaurants and Food Services,Debit,WATERTOWN,NY,Millennial,Card Present,0
+A1125366,1.84,Restaurants and Food Services,Debit,PEVELY,MO,Gen X,Card Present,0
+A5537351,7.14,Restaurants and Food Services,Debit,CHATTANOOGA,TN,Baby Boomer,Card Present,2
+A9753333,5.11,Restaurants and Food Services,Credit,EULESS,TX,Millennial,Unknown,0
+A6926968,3.44,Restaurants and Food Services,Debit,HOUSTON,TX,Millennial,Card Not Present,1
+A3891402,12.33,Restaurants and Food Services,Debit,COLLIERVILLE,TN,Millennial,Card Present,2
+A3549444,2.98,Restaurants and Food Services,Debit,WINSTON SALEM,NC,Millennial,Card Present,0
+A2771277,4.47,Restaurants and Food Services,Debit,SCHAUMBURG,IL,Gen Z,Card Present,0
+A4029915,1.34,Consumer Services,Credit,YONKERS,NY,Millennial,Unknown,2
+A2519690,8.08,Restaurants and Food Services,Debit,FLEETWOOD,PA,Gen X,Card Present,0
+A3749131,18.27,Restaurants and Food Services,Debit,FORT WORTH,TX,Gen X,Unknown,0
+A4152058,16.42,Restaurants and Food Services,Debit,SAINT CLOUD,MN,Millennial,Card Present,0
+A8890184,2.14,Restaurants and Food Services,Debit,EDEN PRAIRIE,MN,Unknown,Card Present,2
+A2537498,16.03,Restaurants and Food Services,Debit,GREEN COVE SPRINGS,FL,Millennial,Card Present,0
+A1722088,11.98,Restaurants and Food Services,Debit,PINELLAS PARK,FL,Millennial,Card Present,0
+A7837295,17.44,Restaurants and Food Services,Debit,LANSING,MI,Gen Z,Card Not Present,0
+A4180723,21.51,Restaurants and Food Services,Debit,KALAMAZOO,MI,Baby Boomer,Card Present,0
+A2663674,1.97,Restaurants and Food Services,Debit,LOGAN,OH,Millennial,Card Present,0
+A6369788,10.31,Restaurants and Food Services,Debit,AUSTIN,TX,Gen Z,Unknown,0
+A8586850,6.76,Restaurants and Food Services,Debit,FORT LAUDERDALE,FL,Unknown,Card Present,0
+A2584280,9.37,Restaurants and Food Services,Debit,BLACKFOOT,ID,Millennial,Card Not Present,0
+A9761431,6.78,Restaurants and Food Services,Debit,INDIANAPOLIS,IN,Unknown,Card Present,0
+A2276670,3.38,Restaurants and Food Services,Debit,POMPANO BEACH,FL,Gen X,Unknown,1
+A6090895,13.77,Restaurants and Food Services,Credit,MARANA,AZ,Millennial,Card Present,0
+A5380977,13.47,Restaurants and Food Services,Debit,ALIQUIPPA,PA,Millennial,Card Present,0
+A6393090,25.19,Restaurants and Food Services,Credit,CORPUS CHRISTI,TX,Unknown,Card Not Present,2
+A6340749,7.53,Restaurants and Food Services,Credit,AUSTIN,MN,Baby Boomer,Card Present,2
+A7316252,6.24,Restaurants and Food Services,Debit,BOYNE CITY,MI,Unknown,Card Not Present,0
+A2979988,2.64,Restaurants and Food Services,Debit,MARTINSBURG,WV,Unknown,Card Present,0
+A7347834,27.63,Restaurants and Food Services,Debit,ALBANY,OR,Millennial,Card Not Present,0
+A1997143,11.96,Restaurants and Food Services,Debit,RUSSIAVILLE,IN,Millennial,Card Present,0
+A4759553,5.32,Restaurants and Food Services,Debit,HUDSON,NH,Unknown,Card Present,0
+A7006672,21.56,Restaurants and Food Services,Debit,WOODS CROSS,UT,Unknown,Card Present,0
+A2073458,15.0,Restaurants and Food Services,Debit,HILLIARD,OH,Gen Z,Card Present,0
+A1619863,28.33,Restaurants and Food Services,Debit,OCALA,FL,Gen X,Card Present,0
+A2656348,19.6,Restaurants and Food Services,Debit,DALLAS,OR,Millennial,Card Present,0
+A1641957,5.87,Restaurants and Food Services,Debit,DELRAY BEACH,FL,Millennial,Unknown,0
+A8604468,26.23,Restaurants and Food Services,Debit,NEWPORT,MI,Gen X,Card Not Present,1
+A7829803,2.15,Restaurants and Food Services,Debit,KALAMAZOO,MI,Millennial,Unknown,0
+A5872004,8.39,Restaurants and Food Services,Debit,MARION,OH,Millennial,Card Present,0
+A2150233,13.96,Restaurants and Food Services,Debit,SEATTLE,WA,Millennial,Card Present,0
+A8693318,13.35,Restaurants and Food Services,Debit,SILSBEE,TX,Gen X,Card Present,0
+A4871684,3.35,Restaurants and Food Services,Debit,ASHLAND,KY,Unknown,Card Present,0
+A9020791,23.91,Restaurants and Food Services,Debit,RICHARDSON,TX,Gen Z,Card Present,0
+A9613480,15.77,Restaurants and Food Services,Debit,LEESBURG,FL,Gen X,Card Present,0
+A1132285,16.79,Restaurants and Food Services,Payroll,GOODYEAR,AZ,Gen Z,Unknown,0
+A2174279,3.53,Restaurants and Food Services,Debit,JAMESVILLE,NY,Baby Boomer,Card Present,2
+A6765051,7.74,Restaurants and Food Services,Credit,MUNDELEIN,IL,Unknown,Card Present,2
+A5517003,6.41,Restaurants and Food Services,Debit,PLAINWELL,MI,Millennial,Card Present,0
+A5063351,8.71,Restaurants and Food Services,Debit,KINGSTON,TN,Millennial,Card Present,2
+A1958738,3.51,Restaurants and Food Services,Debit,PHILADELPHIA,PA,Gen X,Card Present,0
+A5508827,7.46,Restaurants and Food Services,Debit,MINNEAPOLIS,MN,Baby Boomer,Card Present,0
+A7335664,10.11,Restaurants and Food Services,Credit,FORT WAYNE,IN,Gen X,Card Present,0
+A2656348,15.12,Restaurants and Food Services,Debit,BOYERTOWN,PA,Unknown,Card Not Present,0
+A5748075,21.81,Restaurants and Food Services,Debit,MEDIA,PA,Millennial,Unknown,2
+A5334637,21.25,Restaurants and Food Services,Debit,FOLEY,AL,Unknown,Card Present,2
+A8907686,25.25,Restaurants and Food Services,Debit,HILDEBRAN,NC,Gen X,Card Present,0
+A1263013,9.44,Restaurants and Food Services,Debit,MASSILLON,OH,Unknown,Card Present,2
+A9968268,18.39,Restaurants and Food Services,Credit,SAINT PAUL,MN,Unknown,Card Present,0
+A8783943,6.92,Restaurants and Food Services,Debit,SEAGROVE,NC,Gen X,Card Present,0
+A2137354,8.46,Restaurants and Food Services,Debit,TERRE HAUTE,IN,Gen X,Card Present,0
+A9773489,10.98,Restaurants and Food Services,Debit,LOWELL,MI,Gen X,Card Present,0
+A3301445,48.38,Restaurants and Food Services,Debit,PARK HILLS,MO,Gen Z,Card Not Present,0
+A2986014,6.35,Restaurants and Food Services,Debit,JACKSONVILLE,FL,Millennial,Card Present,0
+A4412310,23.2,Restaurants and Food Services,Debit,SHELBYVILLE,IN,Millennial,Card Present,0
+A9957554,5.26,Restaurants and Food Services,Debit,TAMPA,FL,Gen Z,Card Present,0
+A2908092,15.65,Restaurants and Food Services,Debit,KAYENTA,AZ,Gen Z,Card Present,0
+A3282406,19.57,Restaurants and Food Services,Debit,PRATTVILLE,AL,Unknown,Card Present,0
+A9419077,10.43,Restaurants and Food Services,Credit,FORISTELL,MO,Gen Z,Card Present,0
+A8573897,35.5,Restaurants and Food Services,Debit,LEBANON,MO,Gen Z,Card Present,1
+A3495736,30.99,Restaurants and Food Services,Debit,CHARLOTTE,NC,Millennial,Unknown,0
+A2421497,9.12,Restaurants and Food Services,Debit,OGDEN,UT,Millennial,Card Present,0
+A8300561,13.24,Restaurants and Food Services,Credit,DAYTON,OH,Millennial,Card Present,0
+A9635721,9.9,Restaurants and Food Services,Debit,ATLANTA,GA,Millennial,Card Present,0
+A9259564,1.27,Restaurants and Food Services,Debit,ROCKFORD,IL,Gen Z,Card Present,1
+A6256598,9.39,Restaurants and Food Services,Debit,LEXINGTON,KY,Gen Z,Card Present,0
+A9578611,19.22,Restaurants and Food Services,Debit,SUGAR LAND,TX,Millennial,Card Present,0
+A7727539,1.47,Restaurants and Food Services,Debit,MILWAUKEE,WI,Gen Z,Card Present,0
+A5184066,18.51,Restaurants and Food Services,Credit,FONTANA,CA,Baby Boomer,Card Not Present,0
+A4447656,13.12,Restaurants and Food Services,Debit,SAN ANTONIO,TX,Millennial,Card Present,0
+A7069667,14.78,Restaurants and Food Services,Debit,CLARKSVILLE,TN,Unknown,Card Present,0
+A9572339,17.47,Restaurants and Food Services,Debit,LAFAYETTE,IN,Unknown,Card Present,1
+A8971999,5.74,Restaurants and Food Services,Debit,CINCINNATI,OH,Unknown,Card Not Present,0
+A4426265,11.49,Restaurants and Food Services,Debit,LAWLER,IA,Baby Boomer,Unknown,0
+A4607437,7.06,Restaurants and Food Services,Debit,WESLEY CHAPEL,FL,Gen X,Card Present,0
+A1757648,40.02,Restaurants and Food Services,Debit,KISSIMMEE,FL,Gen X,Card Present,0
+A5870499,21.5,Restaurants and Food Services,Debit,RICE,TX,Gen X,Unknown,0
+A4716630,21.02,Restaurants and Food Services,Debit,DENVER,NC,Millennial,Card Not Present,0
+A9081388,28.86,Restaurants and Food Services,Debit,FORT WASHINGTON,MD,Millennial,Card Present,0
+A9392815,10.5,Restaurants and Food Services,Debit,HARKER HEIGHTS,TX,Gen Z,Card Present,0
+A7931426,8.76,Restaurants and Food Services,Credit,CLAYTON,NC,Millennial,Card Not Present,0
+A8020241,12.44,Restaurants and Food Services,Debit,HAMPTON,VA,Gen Z,Card Present,1
+A1192968,3.96,Restaurants and Food Services,Debit,CLEVELAND,OH,Gen Z,Unknown,0
+A1486248,5.51,Restaurants and Food Services,Debit,CONNERSVILLE,IN,Millennial,Card Present,0
+A8167477,10.16,Restaurants and Food Services,Debit,JACKSON,TN,Gen Z,Unknown,0
+A2414485,7.84,Restaurants and Food Services,Debit,SANTA ROSA BEACH,FL,Baby Boomer,Card Present,0
+A3624381,33.47,Restaurants and Food Services,Debit,ORLANDO,FL,Gen X,Card Present,0
+A5997712,6.48,Restaurants and Food Services,Debit,NEWPORT,KY,Millennial,Card Present,0
+A5955831,18.68,Restaurants and Food Services,Debit,INDIANAPOLIS,IN,Unknown,Card Present,0
+A5122826,5.94,Restaurants and Food Services,Debit,MIAMI,FL,Gen X,Card Present,2
+A6080876,1.89,Consumer Services,Credit,SAINT PAUL,MN,Gen X,Card Present,0
+A7100893,19.23,Restaurants and Food Services,Credit,SAINT LOUIS,MO,Gen X,Card Present,2
+A2513055,26.01,Restaurants and Food Services,Debit,NORTH LAS VEGAS,NV,Gen X,Card Present,0
+A4132179,1.26,Restaurants and Food Services,Debit,MANSFIELD,OH,Gen X,Unknown,0
+A8402334,9.53,Restaurants and Food Services,Debit,EL PASO,TX,Gen Z,Unknown,0
+A8898021,11.14,Restaurants and Food Services,Debit,AURORA,IL,Millennial,Card Present,0
+A3638843,25.24,Restaurants and Food Services,Debit,CHICAGO,IL,Unknown,Card Present,0
+A3781021,3.98,Restaurants and Food Services,Debit,BIDDEFORD,ME,Millennial,Card Present,0
+A3410438,14.55,Restaurants and Food Services,Debit,HENDERSON,NC,Baby Boomer,Card Present,0
+A6979332,11.36,Restaurants and Food Services,Debit,DELTONA,FL,Gen Z,Card Present,0
+A2521521,4.03,Restaurants and Food Services,Debit,DETROIT,MI,Millennial,Card Present,0
+A7858900,7.41,Restaurants and Food Services,Debit,LEHI,UT,Millennial,Card Present,0
+A2312178,18.82,Restaurants and Food Services,Debit,NEW LONDON,WI,Gen X,Card Present,0
+A1629049,29.58,Restaurants and Food Services,Debit,GRAND RIDGE,FL,Millennial,Card Present,0
+A9352748,16.44,Restaurants and Food Services,Debit,CORVALLIS,OR,Millennial,Card Present,0
+A8062554,8.67,Restaurants and Food Services,Debit,WASHINGTON,MI,Millennial,Card Present,2
+A1088816,14.08,Restaurants and Food Services,Debit,TUCSON,AZ,Baby Boomer,Card Present,0
+A9648784,10.66,Restaurants and Food Services,Debit,ORANGE PARK,FL,Unknown,Unknown,0
+A2341554,27.56,Restaurants and Food Services,Debit,BRIGHTON,CO,Gen Z,Card Present,0
+A8410353,2.13,Restaurants and Food Services,Debit,CHARLOTTE,NC,Gen X,Unknown,0
+A9510404,11.03,Restaurants and Food Services,Debit,MILWAUKEE,WI,Millennial,Card Present,0
+A3731187,23.18,Restaurants and Food Services,Debit,INDIANAPOLIS,IN,Gen X,Card Present,0
+A6259115,25.55,Restaurants and Food Services,Credit,DUVALL,WA,Unknown,Card Not Present,0
+A4596461,9.13,Restaurants and Food Services,Credit,REGO PARK,NY,Millennial,Card Present,0
+A2584153,20.91,Restaurants and Food Services,Credit,SOUTH GATE,CA,Millennial,Card Present,0
+A2013791,8.74,Restaurants and Food Services,Debit,FLUSHING,MI,Baby Boomer,Unknown,0
+A6340749,12.98,Restaurants and Food Services,Debit,SAN DIEGO,TX,Unknown,Card Present,0
+A5073317,22.62,Restaurants and Food Services,Debit,KELLER,TX,Baby Boomer,Card Present,0
+A9143763,13.09,Restaurants and Food Services,Payroll,BIRMINGHAM,AL,Gen X,Unknown,0
+A6595825,8.24,Restaurants and Food Services,Debit,BELLEVUE,KY,Millennial,Card Present,0
+A6233090,6.36,Restaurants and Food Services,Debit,EL PASO,TX,Millennial,Card Not Present,0
+A6393090,6.69,Restaurants and Food Services,Debit,JACKSONVILLE,FL,Millennial,Unknown,0
+A2954280,2.71,Restaurants and Food Services,Credit,PORTLAND,OR,Millennial,Card Not Present,2
+A6871166,3.7,Restaurants and Food Services,Debit,CONROE,TX,Gen X,Card Present,0
+A7308755,9.81,Restaurants and Food Services,Debit,SAN ANTONIO,TX,Unknown,Unknown,2
+A7211674,2.81,Consumer Services,Debit,SAINT PETERS,MO,Millennial,Card Present,2
+A7906123,6.04,Restaurants and Food Services,Debit,PICKERINGTON,OH,Gen Z,Card Present,0
+A6268580,12.12,Restaurants and Food Services,Debit,HENDERSON,KY,Baby Boomer,Card Present,0
+A1897535,3.36,Restaurants and Food Services,Debit,GLENVIEW,IL,Millennial,Card Present,0
+A5112910,10.14,Restaurants and Food Services,Debit,EL PASO,TX,Unknown,Card Not Present,0
+A6703946,16.32,Restaurants and Food Services,Credit,LADERA RANCH,CA,Baby Boomer,Card Present,0
+A1121861,19.79,Restaurants and Food Services,Credit,LAS VEGAS,,Baby Boomer,Card Present,0
+A4822574,1.22,Restaurants and Food Services,Credit,MILTON,TN,Gen X,Unknown,0
+A1542079,26.73,Restaurants and Food Services,Debit,SHELBYVILLE,TN,Millennial,Card Present,0
+A4739376,2.89,Restaurants and Food Services,Debit,PORT WENTWORTH,GA,Gen Z,Card Present,0
+A6622920,8.34,Restaurants and Food Services,Credit,PALM HARBOR,FL,Millennial,Card Not Present,0
+A8360916,5.92,Restaurants and Food Services,Debit,MINNEAPOLIS,MN,Gen X,Card Present,0
+A4440971,9.95,Restaurants and Food Services,Debit,BESSEMER,AL,Gen Z,Card Present,0
+A1774786,10.55,Restaurants and Food Services,Debit,MARRERO,LA,Unknown,Card Present,0
+A2788189,10.96,Restaurants and Food Services,Debit,LAGRANGE,IN,Unknown,Unknown,0
+A4058632,9.7,Restaurants and Food Services,Debit,ARLINGTON,TN,Millennial,Card Present,0
+A8797015,3.2,Restaurants and Food Services,Debit,SOUTHFIELD,MI,Millennial,Card Present,0
+A3928925,2.51,Consumer Services,Credit,RIVERBANK,CA,Gen X,Card Present,0
+A7330143,40.7,Restaurants and Food Services,Debit,FARMER CITY,IL,Baby Boomer,Card Present,0
+A6711681,8.73,Restaurants and Food Services,Debit,LA VERGNE,,Gen X,Card Present,0
+A7528508,20.51,Restaurants and Food Services,Credit,ATLANTA,GA,Unknown,Card Present,2
+A6979332,14.88,Restaurants and Food Services,Debit,BRISTOW,VA,Unknown,Unknown,0
+A6765051,2.76,Restaurants and Food Services,Credit,SAN JOSE,CA,Millennial,Card Present,1
+A4144849,12.98,Restaurants and Food Services,Debit,NORTH WATERBORO,ME,Gen X,Card Present,0
+A9938403,8.01,Restaurants and Food Services,Credit,LORTON,VA,Millennial,Card Not Present,0
+A4770740,20.53,Restaurants and Food Services,Payroll,TECUMSEH,OK,Unknown,Unknown,0
+A4349374,12.72,Restaurants and Food Services,Debit,ROANOKE,VA,Baby Boomer,Card Present,0
+A4184786,11.5,Restaurants and Food Services,Debit,SHELBY,NC,Millennial,Card Present,0
+A4949224,11.08,Restaurants and Food Services,Debit,PLAINFIELD,IL,Gen X,Card Present,0
+A1521887,11.26,Restaurants and Food Services,Debit,FLORAL CITY,FL,Unknown,Card Present,2
+A7766682,15.47,Restaurants and Food Services,Debit,INDIANAPOLIS,IN,Baby Boomer,Card Present,0
+A4353330,10.83,Restaurants and Food Services,Debit,HALEIWA,HI,Millennial,Unknown,2
+A8112569,1.5,Consumer Services,Debit,PHILADELPHIA,PA,Unknown,Card Present,0
+A1812382,2.95,Restaurants and Food Services,Debit,READING,PA,Millennial,Card Present,0
+A4388685,12.22,Restaurants and Food Services,Credit,UTUADO,PR,Gen X,Card Present,0
+A1300243,1.75,Restaurants and Food Services,Debit,BATON ROUGE,LA,Gen Z,Card Present,0
+A2080681,1.59,Consumer Services,Debit,SPRING HILL,TN,Gen Z,Card Present,0
+A3561172,13.62,Restaurants and Food Services,Debit,PLANO,TX,Gen Z,Card Not Present,0
+A4992676,9.03,Restaurants and Food Services,Debit,WAXAHACHIE,TX,Millennial,Unknown,0
+A6266870,5.43,Restaurants and Food Services,Debit,LAFAYETTE,LA,Millennial,Card Present,0
+A1827719,15.99,Restaurants and Food Services,Credit,MINNEAPOLIS,MN,Millennial,Card Present,0
+A7979943,1.47,Restaurants and Food Services,Debit,GARLAND,TX,Gen Z,Unknown,2
+A4145986,1.95,Restaurants and Food Services,Debit,TALLAHASSEE,FL,Unknown,Card Present,0
+A7707432,26.43,Restaurants and Food Services,Credit,BIRMINGHAM,AL,Baby Boomer,Card Present,0
+A6149237,8.35,Restaurants and Food Services,Debit,SYRACUSE,NY,Baby Boomer,Card Present,0
+A4447656,10.47,Restaurants and Food Services,Debit,EL PASO,TX,Unknown,Unknown,0
+A3793411,2.21,Restaurants and Food Services,Credit,DICKEYVILLE,WI,Millennial,Card Present,0
+A7016203,15.07,Restaurants and Food Services,Credit,BETHLEHEM,PA,Millennial,Card Not Present,0
+A5920981,27.44,Restaurants and Food Services,Debit,BALTIMORE,MD,Millennial,Unknown,0
+A3081624,16.84,Restaurants and Food Services,Debit,FAIRFIELD,CA,Millennial,Card Present,0
+A7355039,9.94,Restaurants and Food Services,Debit,DEL RIO,TX,Baby Boomer,Card Present,0
+A1469947,26.67,Restaurants and Food Services,Debit,FORT WAYNE,IN,Gen X,Unknown,0
+A6888911,8.38,Restaurants and Food Services,Debit,MIDDLEFIELD,OH,Gen Z,Card Present,0
+A9841987,22.53,Restaurants and Food Services,Debit,TAMPA,FL,Unknown,Card Not Present,0
+A8420489,7.56,Restaurants and Food Services,Debit,COLUMBUS,OH,Millennial,Card Not Present,0
+A3102282,17.26,Restaurants and Food Services,Debit,MINNEAPOLIS,MN,Millennial,Card Present,0
+A1179613,6.01,Restaurants and Food Services,Debit,MIDLAND,MI,Baby Boomer,Card Not Present,0
+A5984732,7.0,Restaurants and Food Services,Debit,EL PASO,TX,Gen X,Card Not Present,0
+A8085597,18.01,Restaurants and Food Services,Debit,STATE COLLEGE,PA,Gen X,Unknown,0
+A2105609,16.14,Restaurants and Food Services,Debit,NASHUA,NH,Millennial,Card Present,0
+A1131709,0.01,Restaurants and Food Services,Credit,MILLSBORO,DE,Unknown,Unknown,1
+A6372219,8.58,Restaurants and Food Services,Debit,LANCASTER,,Gen X,Card Present,0
+A3305798,23.18,Restaurants and Food Services,Debit,WINCHESTER,IN,Millennial,Card Present,0
+A6936142,26.89,Restaurants and Food Services,Debit,MARTINS FERRY,OH,Gen Z,Card Not Present,0
+A9464670,6.69,Restaurants and Food Services,Credit,MADISON,WI,Millennial,Card Not Present,2
+A9177613,7.86,Restaurants and Food Services,Debit,DRUMMONDS,TN,Gen X,Card Present,2
+A5061973,9.38,Restaurants and Food Services,Debit,MADISON,WI,Gen Z,Card Not Present,0
+A9977302,15.85,Restaurants and Food Services,Debit,PITTSBURGH,PA,Millennial,Card Present,2
+A7786525,5.22,Restaurants and Food Services,Credit,BAY VILLAGE,OH,Millennial,Card Present,0
+A5481427,61.46,Restaurants and Food Services,Debit,EL PASO,TX,Gen X,Card Present,0
+A7867225,9.8,Restaurants and Food Services,Credit,PARLIER,CA,Millennial,Card Not Present,2
+A3204208,6.8,Restaurants and Food Services,Debit,DORCHESTER CENTER,MA,Unknown,Unknown,0
+A4161364,11.97,Restaurants and Food Services,Debit,KALAMAZOO,MI,Millennial,Unknown,0
+A8898021,4.75,Restaurants and Food Services,Debit,VAIL,AZ,Unknown,Card Present,0
+A7131314,5.52,Restaurants and Food Services,Credit,COLUMBUS,OH,Silent,Card Present,2
+A2950154,4.35,Restaurants and Food Services,Debit,JACKSONVILLE,NC,Gen X,Card Present,0
+A5740342,24.81,Restaurants and Food Services,Credit,BETHEL PARK,PA,Unknown,Card Not Present,0
+A2440333,8.02,Restaurants and Food Services,Debit,GAFFNEY,SC,Gen Z,Card Not Present,0
+A2975664,19.93,Restaurants and Food Services,Debit,OWOSSO,MI,Millennial,Card Present,0
+A6511368,5.56,Restaurants and Food Services,Debit,MILWAUKEE,WI,Millennial,Card Present,0
+A2950610,13.8,Restaurants and Food Services,Debit,LEWISTON,ID,Unknown,Unknown,0
+A2737793,15.45,Restaurants and Food Services,Debit,NICHOLS,SC,Gen X,Card Present,0
+A5971287,13.79,Restaurants and Food Services,Debit,TRENTON,NJ,Unknown,Card Not Present,2
+A1344735,10.14,Restaurants and Food Services,Debit,BROWNSBURG,IN,Unknown,Card Present,0
+A8543069,11.21,Restaurants and Food Services,Credit,EDEN PRAIRIE,MN,Unknown,Card Present,0
+A8921608,15.11,Restaurants and Food Services,Debit,PAW PAW,MI,Millennial,Card Present,0
+A6615450,6.32,Restaurants and Food Services,Credit,ALMONT,MI,Unknown,Card Not Present,2
+A3826482,35.62,Restaurants and Food Services,Debit,SAINT LOUIS,MO,Millennial,Card Present,0
+A2179817,23.84,Restaurants and Food Services,Debit,POINT MARION,PA,Gen Z,Card Present,0
+A7750998,18.75,Restaurants and Food Services,Debit,HOLLY,MI,Millennial,Card Present,0
+A9889635,4.32,Travel and Leisure,Debit,JACKSONVILLE,FL,Unknown,Unknown,0
+A2623302,22.03,Restaurants and Food Services,Debit,GLENDALE,CA,Baby Boomer,Card Present,0
+A9426609,8.28,Restaurants and Food Services,Credit,SAN ANTONIO,TX,Millennial,Card Present,0
+A9416894,13.67,Restaurants and Food Services,Debit,ELKINS,WV,Gen X,Card Present,2
+A9254374,15.43,Restaurants and Food Services,Credit,MABLETON,GA,Gen Z,Card Present,0
+A8456516,7.34,Restaurants and Food Services,Debit,AKRON,OH,Gen X,Card Present,0
+A4198120,21.72,Restaurants and Food Services,Credit,CLARKSBURG,MD,Millennial,Card Not Present,2
+A3321606,11.36,Restaurants and Food Services,Debit,PRATTVILLE,AL,Gen Z,Card Present,0
+A4293912,14.53,Restaurants and Food Services,Debit,CHARLESTON,WV,Gen X,Card Present,2
+A2577911,1.87,Consumer Services,Credit,BAGLEY,MN,Millennial,Card Present,0
+A1946493,1.48,Restaurants and Food Services,Debit,HAMPTON,VA,Gen Z,Card Present,0
+A6355447,10.0,Restaurants and Food Services,Credit,BUCKEYE,AZ,Baby Boomer,Card Present,0
+A9666414,7.06,Restaurants and Food Services,Debit,CANTONMENT,FL,Millennial,Unknown,0
+A7704278,12.53,Restaurants and Food Services,Debit,SAINT CHARLES,IL,Millennial,Card Not Present,0
+A2997293,12.06,Restaurants and Food Services,Credit,LEESBURG,VA,Unknown,Card Not Present,2
+A2150233,3.55,Restaurants and Food Services,Debit,MADISON HEIGHTS,MI,Millennial,Card Present,0
+A5348125,16.08,Restaurants and Food Services,Debit,BURLINGTON,KY,Gen Z,Card Present,0
+A5231876,27.0,Restaurants and Food Services,Debit,VIENNA,VA,Gen X,Card Present,2
+A2950610,15.87,Restaurants and Food Services,Credit,LELAND,NC,Baby Boomer,Card Present,2
+A2533999,20.67,Restaurants and Food Services,Credit,BATON ROUGE,LA,Millennial,Card Not Present,2
+A8456516,21.86,Restaurants and Food Services,Debit,NORWELL,MA,Unknown,Card Present,0
+A3093783,37.24,Restaurants and Food Services,Debit,WINCHESTER,VA,Gen Z,Card Not Present,0
+A8971999,27.75,Restaurants and Food Services,Debit,HUNTSVILLE,AL,Gen Z,Card Present,0
+A3630749,16.79,Restaurants and Food Services,Debit,YUMA,AZ,Gen X,Card Present,0
+A6888911,13.31,Restaurants and Food Services,Credit,BOGART,GA,Unknown,Card Present,2
+A5758674,11.12,Restaurants and Food Services,Debit,JACKSONVILLE,FL,Gen X,Unknown,0
+A3325060,17.47,Restaurants and Food Services,Credit,HUNTERSVILLE,NC,Millennial,Card Present,0
+A9733737,13.04,Restaurants and Food Services,Debit,LANSING,MI,Millennial,Card Present,0
+A6248724,36.68,Restaurants and Food Services,Debit,ALBANY,GA,Millennial,Unknown,0
+A9384681,18.7,Restaurants and Food Services,Debit,ALIQUIPPA,PA,Gen X,Unknown,0
+A9584313,8.04,Restaurants and Food Services,Credit,PLACENTIA,CA,Baby Boomer,Card Not Present,0
+A1301360,8.1,Restaurants and Food Services,Credit,COLORADO SPRINGS,CO,Gen X,Card Present,0
+A6103359,1.48,Restaurants and Food Services,Credit,MILLS RIVER,NC,Baby Boomer,Card Present,2
+A4890698,3.35,Restaurants and Food Services,Debit,OCONTO FALLS,WI,Baby Boomer,Card Present,0
+A2022810,10.58,Restaurants and Food Services,Debit,PLAINFIELD,IN,Gen X,Card Present,0
+A4180172,8.95,Restaurants and Food Services,Debit,ZEELAND,MI,Gen X,Card Present,0
+A4016829,9.58,Restaurants and Food Services,Credit,PRESCOTT VALLEY,AZ,Gen X,Card Present,0
+A2419066,2.26,Travel and Leisure,Debit,NAPPANEE,IN,Millennial,Unknown,2
+A6862542,12.5,Restaurants and Food Services,Debit,CANTON,OH,Gen Z,Card Present,0
+A1209900,19.42,Restaurants and Food Services,Debit,LORAIN,OH,Millennial,Card Not Present,0
+A4192548,10.44,Restaurants and Food Services,Debit,LAFAYETTE,LA,Baby Boomer,Card Present,0
+A4853216,7.22,Restaurants and Food Services,Debit,OAKDALE,PA,Unknown,Card Present,0
+A4136482,10.16,Restaurants and Food Services,Debit,MINNEAPOLIS,MN,Millennial,Card Present,0
+A6695854,52.64,Restaurants and Food Services,Debit,FORT MILL,SC,Gen X,Card Present,0
+A3115267,34.9,Restaurants and Food Services,Debit,MADRID,IA,Gen X,Card Not Present,0
+A8630237,4.69,Restaurants and Food Services,General Purpose,NEW HAVEN,CT,Unknown,Card Present,0
+A6956437,6.66,Restaurants and Food Services,Credit,SEATTLE,WA,Unknown,Card Present,0
+A8487878,18.81,Restaurants and Food Services,Credit,HERRIMAN,UT,Millennial,Card Present,2
+A6760655,10.24,Restaurants and Food Services,Debit,WEST JORDAN,UT,Gen X,Card Present,0
+A6162340,5.04,Restaurants and Food Services,Debit,DOTHAN,AL,Millennial,Card Present,2
+A9991796,4.96,Restaurants and Food Services,Debit,RACINE,WI,Baby Boomer,Card Not Present,0
+A9938403,4.91,Restaurants and Food Services,Debit,RALEIGH,NC,Unknown,Unknown,1
+A8112569,6.77,Restaurants and Food Services,Debit,SEYMOUR,CT,Millennial,Card Present,0
+A4987898,7.61,Restaurants and Food Services,Credit,FORNEY,TX,Millennial,Card Present,0
+A4970682,18.97,Restaurants and Food Services,Credit,HOLLYWOOD,FL,Millennial,Card Present,0
+A2527147,9.76,Restaurants and Food Services,Debit,CLOVER,SC,Gen Z,Card Present,0
+A7203922,3.42,Consumer Services,Debit,JACKSON,MN,Gen Z,Unknown,0
+A8830625,16.3,Restaurants and Food Services,Debit,EL PASO,TX,Baby Boomer,Card Present,0
+A8079854,2.6,Restaurants and Food Services,Debit,GRAND PRAIRIE,TX,Gen Z,Unknown,0
+A9253204,1.47,Restaurants and Food Services,Debit,FALLS CHURCH,VA,Gen Z,Unknown,0
+A4285479,15.43,Restaurants and Food Services,Debit,FAIR HAVEN,VT,Baby Boomer,Card Present,0
+A9424377,31.85,Restaurants and Food Services,Debit,BELLE GLADE,FL,Unknown,Card Not Present,0
+A3337006,37.93,Restaurants and Food Services,Debit,DECATUR,IL,Gen X,Card Present,0
+A2695405,70.9,Restaurants and Food Services,Debit,ROCHESTER,MN,Millennial,Card Present,0
+A2719859,18.24,Restaurants and Food Services,Debit,NIAGARA FALLS,NY,Gen Z,Card Present,0
+A9283943,13.67,Restaurants and Food Services,Debit,SYLACAUGA,AL,Millennial,Card Present,2
+A1774046,8.31,Restaurants and Food Services,Debit,FAYETTEVILLE,NC,Millennial,Card Present,0
+A2741141,20.75,Restaurants and Food Services,Debit,DELAWARE,OH,Gen Z,Card Not Present,0
+A2476875,19.45,Restaurants and Food Services,Debit,MADISON,,Millennial,Card Present,2
+A1421279,12.01,Restaurants and Food Services,Credit,FRANCESTOWN,NH,Unknown,Card Present,2
+A3374585,26.14,Restaurants and Food Services,Credit,HENDERSON,NV,Millennial,Card Present,0
+A9033466,34.22,Restaurants and Food Services,Debit,DESTIN,FL,Baby Boomer,Card Present,0
+A8426110,112.16,Restaurants and Food Services,Debit,DEFUNIAK SPRINGS,FL,Gen X,Card Present,0
+A6332382,11.53,Restaurants and Food Services,Debit,ASHEBORO,NC,Gen X,Card Present,2
+A3282406,5.19,Restaurants and Food Services,Debit,CLARKSTON,WA,Gen X,Unknown,0
+A4346390,11.44,Restaurants and Food Services,Credit,NEW YORK,NY,Unknown,Card Not Present,0
+A2268394,24.7,Restaurants and Food Services,Credit,RICHMOND,KY,Gen X,Card Not Present,0
+A3062028,51.87,Restaurants and Food Services,Credit,KERNERSVILLE,NC,Baby Boomer,Card Present,0
+A4161344,12.48,Restaurants and Food Services,Debit,LEXINGTON,SC,Gen X,Card Not Present,0
+A2228007,21.25,Restaurants and Food Services,Debit,MONROE,WI,Millennial,Unknown,0
+A8882143,16.46,Restaurants and Food Services,Debit,TEXARKANA,AR,Millennial,Card Present,0
+A5966098,34.36,Restaurants and Food Services,Credit,JACKSONVILLE,FL,Millennial,Unknown,0
+A2757487,6.16,Restaurants and Food Services,Debit,PLEASANTVILLE,NJ,Gen X,Card Present,0
+A1145720,21.63,Restaurants and Food Services,Credit,LONG GROVE,IA,Gen X,Card Present,0
+A7766658,13.96,Restaurants and Food Services,Debit,BAKERSFIELD,CA,Gen X,Card Present,0
+A2387063,8.34,Restaurants and Food Services,Credit,MINNEAPOLIS,MN,Gen X,Card Present,2
+A5316584,1.86,Restaurants and Food Services,Debit,LAKE GENEVA,WI,Millennial,Card Present,2
+A7129960,9.53,Restaurants and Food Services,Debit,BARTLESVILLE,OK,Gen X,Card Present,0
+A7243666,16.42,Restaurants and Food Services,Debit,TERRA ALTA,WV,Gen X,Card Present,2
+A9673356,8.95,Restaurants and Food Services,Debit,HINESVILLE,GA,Millennial,Card Present,2
+A4511245,12.18,Restaurants and Food Services,Debit,EULESS,TX,Gen Z,Card Present,0
+A8432326,41.54,Restaurants and Food Services,Credit,NEW ORLEANS,LA,Gen X,Card Present,2
+A1911191,22.92,Restaurants and Food Services,Debit,THATCHER,AZ,Gen X,Card Present,0
+A3776769,9.33,Restaurants and Food Services,Credit,HOPKINS,MN,Baby Boomer,Card Present,2
+A9880023,47.8,Restaurants and Food Services,Credit,NOBLESVILLE,IN,Unknown,Card Present,0
+A6851903,23.97,Restaurants and Food Services,Debit,HUNTINGTON BEACH,CA,Gen X,Unknown,2
+A2953981,1.11,Consumer Services,Debit,LYMAN,SC,Baby Boomer,Card Present,0
+A7731314,9.32,Restaurants and Food Services,Debit,MATTHEWS,NC,Millennial,Card Present,2
+A4457535,17.91,Restaurants and Food Services,Debit,PLAIN CITY,OH,Millennial,Card Present,2
+A3890175,11.71,Restaurants and Food Services,Credit,BLYTHEWOOD,SC,Baby Boomer,Card Present,2
+A4278777,5.63,Restaurants and Food Services,Credit,FRANKLIN,TN,Gen X,Card Present,2
+A1390445,8.14,Restaurants and Food Services,Debit,MAGNOLIA,TX,Baby Boomer,Card Present,0
+A5684995,46.89,Restaurants and Food Services,Debit,SUISUN CITY,CA,Millennial,Card Present,0
+A8546740,8.23,Restaurants and Food Services,Debit,SAINT PETERSBURG,FL,Baby Boomer,Card Present,2
+A7468311,3.02,Restaurants and Food Services,Debit,PICKERINGTON,OH,Gen X,Card Present,0
+A6881202,16.05,Restaurants and Food Services,Debit,GARRETTSVILLE,OH,Gen X,Card Present,2
+A3450558,11.38,Restaurants and Food Services,Debit,KILLEN,AL,Baby Boomer,Card Present,0
+A6090895,44.83,Restaurants and Food Services,Credit,IRVINE,CA,Gen X,Card Not Present,0
+A2060865,3.25,Restaurants and Food Services,Debit,NEWBURGH,IN,Gen X,Card Present,0
+A7149300,9.68,Restaurants and Food Services,Debit,ARGENTA,IL,Unknown,Card Present,0
+A8894847,9.91,Restaurants and Food Services,Debit,WESTERVILLE,OH,Unknown,Card Not Present,0
+A9069454,16.45,Restaurants and Food Services,Debit,FOND DU LAC,WI,Gen X,Unknown,2
+A3278619,16.41,Restaurants and Food Services,Credit,TAMPA,FL,Baby Boomer,Card Present,0
+A3819507,22.48,Restaurants and Food Services,Debit,ASHTABULA,OH,Gen X,Card Present,2
+A9851639,5.16,Restaurants and Food Services,Debit,ORLANDO,FL,Baby Boomer,Card Present,2
+A3173474,11.91,Restaurants and Food Services,Debit,DEARBORN HEIGHTS,MI,Baby Boomer,Card Present,0
+A4123871,24.15,Restaurants and Food Services,Debit,CEDAR FALLS,IA,Gen X,Card Present,0
+A4708537,2.96,Consumer Services,Debit,CEDAR CITY,UT,Millennial,Unknown,0
+A3848255,13.02,Restaurants and Food Services,Credit,AUSTIN,TX,Millennial,Card Present,2
+A1454964,6.63,Restaurants and Food Services,Credit,CARY,NC,Gen X,Card Present,1
+A7711360,29.67,Restaurants and Food Services,Credit,GOLDEN,CO,Baby Boomer,Card Present,2
+A5971287,7.1,Restaurants and Food Services,Debit,MESQUITE,TX,Baby Boomer,Unknown,0
+A7267568,25.69,Restaurants and Food Services,Debit,BLOOMFIELD,NJ,Millennial,Card Present,0
+A4841847,14.07,Restaurants and Food Services,Debit,WRIGHT CITY,MO,Millennial,Unknown,0
+A7799327,14.14,Restaurants and Food Services,Debit,LAS VEGAS,NV,Millennial,Card Not Present,0
+A9543261,3.97,Restaurants and Food Services,Debit,ADDISON,NY,Gen X,Card Present,0
+A7834408,7.47,Restaurants and Food Services,Debit,CLARKSVILLE,IN,Millennial,Card Present,0
+A8316112,6.02,Restaurants and Food Services,Credit,FORT COLLINS,CO,Millennial,Card Present,2
+A7585227,5.54,Restaurants and Food Services,Credit,STATE COLLEGE,PA,Millennial,Card Present,0
+A4222944,10.05,Restaurants and Food Services,Debit,HOUSTON,TX,Gen Z,Card Not Present,0
+A4447656,16.85,Restaurants and Food Services,Debit,WARREN,OH,Baby Boomer,Card Present,0
+A4745541,11.14,Restaurants and Food Services,Debit,ALLENTOWN,PA,Gen Z,Card Present,0
+A4753958,12.47,Restaurants and Food Services,Debit,WALDORF,MD,Unknown,Unknown,0
+A7948844,6.06,Restaurants and Food Services,Debit,CHESAPEAKE,VA,Gen Z,Unknown,2
+A4677202,9.78,Restaurants and Food Services,Credit,NORTH OLMSTED,OH,Millennial,Card Present,1
+A5405382,1.26,Restaurants and Food Services,Credit,JANESVILLE,WI,Millennial,Unknown,0
+A5640196,21.69,Restaurants and Food Services,Debit,EL PASO,TX,Gen X,Card Present,0
+A6367058,17.17,Restaurants and Food Services,Credit,RANCHO CORDOVA,CA,Millennial,Card Present,2
+A9360494,12.1,Restaurants and Food Services,Credit,PORTLAND,OR,Millennial,Card Present,0
+A6860170,2.83,Restaurants and Food Services,Debit,WARMINSTER,PA,Gen X,Card Present,1
+A3373731,14.14,Restaurants and Food Services,Debit,HARRISONVILLE,MO,Silent,Card Present,0
+A5549845,9.83,Restaurants and Food Services,Debit,CUYAHOGA FALLS,OH,Millennial,Card Present,0
+A5088371,12.39,Restaurants and Food Services,Credit,MISSION HILLS,CA,Millennial,Card Present,0
+A5013195,12.64,Restaurants and Food Services,Debit,MCKINNEY,TX,Millennial,Card Present,0
+A6956437,4.48,Restaurants and Food Services,Debit,ROCHESTER,NY,Millennial,Card Present,0
+A8483825,33.71,Restaurants and Food Services,Debit,ODESSA,TX,Millennial,Card Present,0
+A6547860,8.14,Restaurants and Food Services,Debit,MIDLOTHIAN,VA,Millennial,Card Present,0
+A8755162,16.71,Restaurants and Food Services,Debit,FORT LAUDERDALE,FL,Millennial,Card Present,0
+A3656867,12.99,Restaurants and Food Services,Debit,BUFFALO,NY,Millennial,Card Present,2
+A8705670,13.61,Restaurants and Food Services,Debit,DELAND,FL,Gen Z,Card Present,0
+A3373731,16.64,Restaurants and Food Services,Debit,HOUSTON,TX,Unknown,Card Present,2
+A1984169,7.21,Restaurants and Food Services,Debit,MISHAWAKA,IN,Millennial,Card Present,0
+A2746896,10.05,Restaurants and Food Services,Debit,LIVONIA,MI,Millennial,Card Present,0
+A6608311,6.4,Restaurants and Food Services,Debit,SAN DIEGO,CA,Millennial,Card Present,2
+A2123759,26.46,Restaurants and Food Services,Debit,JACKSONVILLE,FL,Millennial,Unknown,0
+A9193045,18.07,Restaurants and Food Services,Debit,WALLAND,TN,Millennial,Card Present,0
+A3454731,10.13,Restaurants and Food Services,Credit,IRVING,TX,Millennial,Card Not Present,0
+A2235073,55.99,Restaurants and Food Services,Debit,SAINT PAUL,MN,Millennial,Card Present,2
+A7533160,10.12,Restaurants and Food Services,Debit,OCALA,FL,Unknown,Unknown,0
+A3124459,1.85,Restaurants and Food Services,Debit,CLINTON TOWNSHIP,MI,Millennial,Card Present,0
+A6144941,10.29,Restaurants and Food Services,Debit,SPRINGFIELD,OH,Gen X,Card Present,0
+A4298659,19.91,Restaurants and Food Services,Debit,CHERRYVILLE,NC,Unknown,Unknown,0
+A3528758,4.22,Restaurants and Food Services,Debit,WICHITA FALLS,TX,Gen Z,Card Not Present,0
+A7869954,28.41,Restaurants and Food Services,Credit,WARREN,MI,Unknown,Card Not Present,0
+A9451965,20.09,Restaurants and Food Services,Debit,FULLERTON,CA,Gen X,Card Present,1
+A2788189,7.17,Restaurants and Food Services,Debit,MONROE,MI,Millennial,Card Present,0
+A4159320,32.88,Restaurants and Food Services,Credit,BILOXI,MS,Millennial,Card Present,2
+A7863013,8.87,Restaurants and Food Services,Debit,WARD,SC,Baby Boomer,Card Present,0
+A1661236,11.96,Restaurants and Food Services,Credit,PRINEVILLE,OR,Millennial,Card Present,0
+A6238057,11.85,Restaurants and Food Services,Debit,EL PASO,TX,Gen X,Card Present,0
+A1152173,13.26,Restaurants and Food Services,Debit,EL PASO,TX,Baby Boomer,Card Present,0
+A5115730,23.36,Restaurants and Food Services,Debit,LAKE VILLA,IL,Millennial,Card Present,0
+A2580428,13.27,Restaurants and Food Services,Credit,LAS CRUCES,NM,Gen X,Card Present,2
+A2225286,8.75,Restaurants and Food Services,Debit,ENGLEWOOD,OH,Gen X,Card Present,0
+A9173082,16.34,Restaurants and Food Services,Debit,SHELBYVILLE,TN,Gen X,Card Present,0
+A7040905,12.01,Restaurants and Food Services,Debit,WATERBURY,CT,Gen X,Card Present,1
+A4790538,8.37,Restaurants and Food Services,Debit,CHICAGO,IL,Gen Z,Card Present,2
+A2469423,7.6,Restaurants and Food Services,Debit,COCOA,FL,Millennial,Card Present,0
+A1421279,7.4,Restaurants and Food Services,Credit,RICHLAND,WA,Millennial,Card Present,0
+A5564436,15.36,Restaurants and Food Services,Debit,JACKSONVILLE,FL,Baby Boomer,Card Present,0
+A9889635,11.9,Restaurants and Food Services,Debit,FARGO,ND,Gen X,Card Present,2
+A7055416,25.14,Restaurants and Food Services,Debit,SANFORD,FL,Gen X,Unknown,2
+A7528852,5.21,Restaurants and Food Services,Debit,COLONIAL HEIGHTS,VA,Millennial,Unknown,0
+A1725506,10.28,Restaurants and Food Services,Credit,FORT WORTH,TX,Gen X,Card Present,0
+A8744353,3.15,Restaurants and Food Services,Debit,PARKERSBURG,WV,Baby Boomer,Card Present,0
+A3714339,25.9,Restaurants and Food Services,Debit,LAYTON,UT,Unknown,Card Present,2
+A4159320,22.3,Restaurants and Food Services,Debit,HUMBLE,TX,Millennial,Unknown,0
+A8537765,11.78,Restaurants and Food Services,Debit,DALLAS,TX,Gen Z,Card Present,0
+A5280817,32.44,Restaurants and Food Services,Credit,TUCSON,AZ,Baby Boomer,Card Present,0
+A1651154,9.78,Restaurants and Food Services,Debit,NEWBERRY,SC,Gen X,Card Present,0
+A5746116,0.01,Restaurants and Food Services,Debit,SALT LAKE CITY,UT,Millennial,Unknown,2
+A6436692,15.57,Restaurants and Food Services,Debit,JACKSON,TN,Millennial,Card Present,0
+A3449766,40.04,Restaurants and Food Services,Debit,HOUSTON,TX,Gen Z,Card Present,2
+A7793745,28.67,Restaurants and Food Services,Debit,JACKSONVILLE,FL,Gen Z,Card Present,0
+A7065473,14.41,Restaurants and Food Services,Debit,LAKESIDE,CA,Millennial,Card Present,2
+A3454731,1.71,Restaurants and Food Services,Debit,IUKA,MS,Unknown,Card Present,2
+A7028901,9.07,Restaurants and Food Services,Credit,JOPLIN,MO,Baby Boomer,Card Present,2
+A8865355,1.71,Restaurants and Food Services,Debit,MOUNT AIRY,NC,Unknown,Card Present,0
+A6822863,83.65,Restaurants and Food Services,Credit,CAMARILLO,CA,Millennial,Card Present,0
+A1739118,13.17,Restaurants and Food Services,Debit,HIGH POINT,NC,Gen X,Card Present,0
+A4897256,23.35,Restaurants and Food Services,Debit,COLUMBUS GROVE,OH,Gen Z,Card Present,0
+A2006650,19.77,Restaurants and Food Services,Credit,SAINT PAUL,MN,Gen Z,Card Present,0
+A6071930,8.33,Retail,Debit,MIAMI,FL,Baby Boomer,Card Present,0
+A1456820,14.16,Restaurants and Food Services,Debit,BATON ROUGE,LA,Gen X,Card Present,0
+A6404638,6.59,Restaurants and Food Services,Debit,TAYLOR,MI,Millennial,Card Present,2
+A6814045,9.8,Restaurants and Food Services,Debit,PETERSBURG,VA,Millennial,Unknown,0
+A5331576,7.17,Restaurants and Food Services,Debit,CHILLICOTHE,OH,Baby Boomer,Card Present,0
+A5016751,10.63,Restaurants and Food Services,Credit,TAMPA,FL,Gen Z,Card Not Present,0
+A6096724,14.71,Restaurants and Food Services,Debit,TRIANGLE,VA,Gen X,Card Present,0
+A4075714,5.02,Retail,Debit,MADISON,,Unknown,Card Present,0
+A1407645,24.75,Restaurants and Food Services,Debit,MILWAUKEE,WI,Gen Z,Card Not Present,0
+A2886868,12.2,Restaurants and Food Services,Debit,ALBUQUERQUE,NM,Gen Z,Unknown,2
+A3203431,8.04,Restaurants and Food Services,Debit,EATONVILLE,WA,Millennial,Card Present,0
+A6087539,13.62,Restaurants and Food Services,Credit,LAS VEGAS,NV,Millennial,Card Present,0
+A1858085,5.84,Restaurants and Food Services,Debit,DALLAS,NC,Millennial,Unknown,0
+A7111439,3.09,Consumer Services,Debit,WINSTON SALEM,NC,Gen Z,Unknown,0
+A5429570,24.55,Restaurants and Food Services,Debit,OAKLAND,CA,Baby Boomer,Card Not Present,0
+A2070325,1.53,Restaurants and Food Services,Debit,SMYRNA,TN,Millennial,Unknown,0
+A7844396,26.85,Restaurants and Food Services,Credit,ALLEN,TX,Gen X,Card Not Present,2
+A7169416,31.8,Restaurants and Food Services,Debit,BLACKLICK,OH,Gen X,Unknown,0
+A2837858,16.83,Restaurants and Food Services,Debit,SMYRNA,TN,Unknown,Card Present,0
+A8315951,10.85,Restaurants and Food Services,Debit,TOLEDO,OH,Gen Z,Card Present,2
+A6147038,33.08,Restaurants and Food Services,Credit,FAIRBANKS,AK,Millennial,Card Present,0
+A7825447,1.52,Restaurants and Food Services,Debit,MINNEAPOLIS,MN,Gen X,Card Present,0
+A2719859,21.5,Restaurants and Food Services,Debit,DURHAM,NC,Unknown,Card Present,0
+A4897618,6.63,Restaurants and Food Services,Credit,CLAWSON,MI,Baby Boomer,Card Present,0
+A1691750,5.31,Restaurants and Food Services,Debit,HACKENSACK,NJ,Millennial,Card Present,0
+A6553721,6.41,Restaurants and Food Services,Debit,ATLANTIC CITY,NJ,Millennial,Card Not Present,0
+A7076998,4.3,Restaurants and Food Services,Debit,AUGUSTA,GA,Gen X,Card Present,0
+A5779617,9.3,Restaurants and Food Services,Debit,ARDEN,NC,Gen Z,Card Present,0
+A7076320,8.34,Restaurants and Food Services,Debit,GARNER,NC,Unknown,Card Present,0
+A7198327,6.11,Restaurants and Food Services,Credit,GREELEY,CO,Gen X,Card Present,0
+A2979988,11.16,Restaurants and Food Services,Credit,UTICA,MI,Gen X,Card Present,2
+A7269188,3.93,Restaurants and Food Services,Credit,VIRGINIA BEACH,VA,Gen X,Card Present,0
+A1201977,28.3,Restaurants and Food Services,Debit,PAINESVILLE,OH,Millennial,Card Not Present,1
+A1032133,6.53,Retail,Debit,DANVILLE,VA,Unknown,Card Present,0
+A5044028,9.55,Restaurants and Food Services,Debit,WEST JORDAN,UT,Gen Z,Card Not Present,0
+A5137210,10.71,Restaurants and Food Services,Credit,CHELTENHAM,PA,Millennial,Card Present,2
+A3475537,8.56,Restaurants and Food Services,Debit,GREEN BAY,WI,Gen Z,Card Present,0
+A1209900,14.33,Restaurants and Food Services,Credit,HARVEST,AL,Unknown,Card Present,0
+A2297511,2.42,Restaurants and Food Services,Debit,ELYRIA,OH,Millennial,Card Present,2
+A1930352,9.94,Restaurants and Food Services,Debit,CINCINNATI,OH,Gen Z,Card Present,0
+A4346568,16.55,Restaurants and Food Services,Credit,BLUFFTON,SC,Millennial,Card Not Present,0
+A7657946,10.01,Restaurants and Food Services,Debit,SAINT MARTINVILLE,LA,Baby Boomer,Card Present,0
+A7019056,25.1,Restaurants and Food Services,Debit,MARQUETTE,MI,Gen X,Card Not Present,0
+A9992983,10.79,Restaurants and Food Services,Debit,HASTINGS,FL,Baby Boomer,Unknown,0
+A5784040,42.2,Restaurants and Food Services,Debit,HOPKINS,MN,Millennial,Card Not Present,0
+A3825062,9.45,Restaurants and Food Services,Debit,SEMINOLE,,Millennial,Card Not Present,0
+A4159320,13.27,Travel and Leisure,Credit,ROUND ROCK,TX,Unknown,Card Not Present,2
+A1276104,9.16,Restaurants and Food Services,Credit,CORPUS CHRISTI,TX,Gen X,Card Present,0
+A4383807,13.13,Restaurants and Food Services,Debit,COLUMBIA,TN,Millennial,Card Present,0
+A8035470,4.02,Restaurants and Food Services,Debit,INDIANAPOLIS,IN,Unknown,Card Present,0
+A2432215,6.14,Restaurants and Food Services,Debit,LANCASTER,PA,Unknown,Card Not Present,0
+A9238719,3.98,Restaurants and Food Services,Debit,CLEVELAND,OH,Millennial,Card Present,0
+A5615193,57.81,Restaurants and Food Services,Credit,MOUNTAIN TOP,PA,Gen X,Card Not Present,0
+A6768218,8.11,Restaurants and Food Services,Debit,NASHPORT,OH,Unknown,Card Present,0
+A4291117,8.35,Restaurants and Food Services,Debit,CHRISTIANA,TN,Baby Boomer,Card Present,0
+A1131709,2.5,Restaurants and Food Services,Debit,HOUMA,LA,Gen Z,Card Present,0
+A1354750,10.92,Restaurants and Food Services,Debit,WINTER GARDEN,FL,Millennial,Card Not Present,0
+A6895783,16.18,Restaurants and Food Services,Debit,WEST HELENA,AR,Gen Z,Card Present,0
+A1615810,13.65,Restaurants and Food Services,Debit,TEXARKANA,TX,Gen X,Card Present,0
+A4033848,10.39,Restaurants and Food Services,Debit,MIDDLEBURG,FL,Gen X,Unknown,1
+A2990259,10.5,Restaurants and Food Services,Credit,JAMAICA PLAIN,MA,Baby Boomer,Card Present,2
+A8755044,9.99,Restaurants and Food Services,Debit,COLUMBUS,OH,Gen Z,Card Present,0
+A5259790,6.85,Restaurants and Food Services,Debit,SIOUX FALLS,SD,Gen Z,Card Present,2
+A3240845,5.05,Restaurants and Food Services,Credit,PONTE VEDRA BEACH,FL,Baby Boomer,Card Present,0
+A4086248,49.0,Restaurants and Food Services,Credit,FAIRCHILD AIR FORCE BASE,WA,Millennial,Card Present,0
+A7536169,14.84,Restaurants and Food Services,Debit,ATLANTA,MI,Unknown,Unknown,0
+A1457371,5.93,Restaurants and Food Services,Debit,NORTH STREET,MI,Gen X,Card Present,0
+A7144270,23.49,Restaurants and Food Services,Debit,CHATSWORTH,GA,Gen Z,Card Present,0
+A2531470,17.51,Restaurants and Food Services,Credit,COLUMBIA,SC,Millennial,Card Not Present,0
+A7444517,41.05,Restaurants and Food Services,Debit,PORT ORANGE,FL,Gen X,Card Present,0
+A6425299,7.46,Restaurants and Food Services,Debit,NEW MARKET,MD,Baby Boomer,Card Present,0
+A6057516,6.67,Restaurants and Food Services,Credit,ELK RIVER,MN,Baby Boomer,Card Present,2
+A1931274,6.62,Restaurants and Food Services,Payroll,WILLMAR,MN,Millennial,Unknown,0
+A2837858,21.48,Restaurants and Food Services,Debit,CLEARFIELD,UT,Gen X,Card Present,0
+A6661531,3.95,Restaurants and Food Services,Debit,SAN ANTONIO,TX,Gen X,Unknown,2
+A8365060,10.57,Restaurants and Food Services,Debit,CHESAPEAKE,VA,Baby Boomer,Card Present,0
+A4753958,14.03,Restaurants and Food Services,Debit,NEW LONDON,WI,Baby Boomer,Card Present,1
+A9413457,3.18,Restaurants and Food Services,Debit,WILMINGTON,NC,Gen Z,Card Present,0
+A5126891,25.21,Restaurants and Food Services,Debit,JOHNSON CITY,TN,Gen Z,Card Present,0
+A9790890,10.69,Restaurants and Food Services,Credit,LENEXA,KS,Gen X,Card Present,2
+A3204208,43.62,Restaurants and Food Services,Credit,FLEMING ISLAND,FL,Millennial,Unknown,0
+A5084503,1.11,Restaurants and Food Services,Credit,SANTA MONICA,CA,Gen X,Card Not Present,2
+A6468139,23.0,Restaurants and Food Services,Debit,RICHMOND,MN,Gen X,Card Not Present,0
+A2890946,12.01,Restaurants and Food Services,Credit,FORT WORTH,TX,Gen Z,Card Present,0
+A5888768,15.07,Restaurants and Food Services,Credit,NEW LONDON,WI,Gen X,Card Present,1
+A6165325,43.46,Restaurants and Food Services,Debit,UNIVERSITY PARK,IL,Millennial,Card Not Present,1
+A5165671,9.86,Restaurants and Food Services,Debit,PLYMOUTH,MI,Millennial,Card Present,0
+A1441599,18.34,Restaurants and Food Services,Credit,PHOENIX,AZ,Millennial,Card Not Present,2
+A9262876,8.4,Restaurants and Food Services,Credit,TUCSON,AZ,Millennial,Card Not Present,0
+A1173179,7.42,Restaurants and Food Services,Credit,SPRINGFIELD,MO,Baby Boomer,Card Not Present,2
+A1102214,1.05,Restaurants and Food Services,Debit,FINDLAY,OH,Millennial,Card Present,0
+A8241094,9.21,Restaurants and Food Services,Debit,HALEYVILLE,AL,Gen X,Card Present,0
+A3053474,16.84,Restaurants and Food Services,Debit,SCHOOLCRAFT,MI,Millennial,Card Present,0
+A9600746,14.02,Restaurants and Food Services,Debit,FORT WAYNE,IN,Millennial,Card Present,0
+A7055645,11.65,Restaurants and Food Services,Debit,SHERIDAN,IN,Baby Boomer,Card Present,0
+A9741718,4.99,Restaurants and Food Services,Debit,NEWARK,OH,Millennial,Card Present,0
+A4913808,16.63,Restaurants and Food Services,Credit,LAKE CITY,FL,Millennial,Card Present,0
+A4972014,8.91,Restaurants and Food Services,Debit,NEWTON,AL,Millennial,Card Present,2
+A4248503,2.11,Consumer Services,Debit,CHESTER,VA,Gen X,Card Present,2
+A9515628,20.67,Restaurants and Food Services,Debit,MANTUA,OH,Millennial,Card Present,2
+A7528508,6.84,Restaurants and Food Services,Debit,CONWAY,SC,Gen Z,Card Present,0
+A3311965,2.58,Restaurants and Food Services,Debit,VINCENT,OH,Unknown,Card Present,0
+A9305263,10.76,Restaurants and Food Services,Debit,INDIANAPOLIS,IN,Millennial,Card Present,0
+A7774631,19.9,Restaurants and Food Services,Debit,LEHIGH ACRES,FL,Millennial,Card Present,0
+A6280047,4.91,Restaurants and Food Services,Debit,ORLANDO,FL,Baby Boomer,Card Present,0
+A7316726,1.67,Restaurants and Food Services,Debit,MACON,GA,Gen Z,Card Present,0
+A1258056,5.08,Restaurants and Food Services,Debit,MESA,AZ,Gen Z,Card Present,0
+A3479896,2.79,Restaurants and Food Services,Debit,PHOENIX,AZ,Millennial,Card Present,1
+A7076320,15.6,Restaurants and Food Services,Credit,MESA,AZ,Millennial,Card Present,2
+A7068552,19.43,Restaurants and Food Services,Debit,ARLINGTON,TN,Millennial,Card Not Present,0
+A7522176,13.14,Restaurants and Food Services,Debit,MURFREESBORO,TN,Millennial,Card Present,0
+A8998623,5.71,Restaurants and Food Services,Debit,SAGINAW,MI,Millennial,Card Present,0
+A8103525,1.28,Consumer Services,Debit,GAYLORD,MI,Millennial,Card Present,2
+A3036804,6.06,Consumer Services,Debit,TOCCOA,GA,Gen Z,Card Present,0
+A3835765,5.11,Restaurants and Food Services,Credit,SAN DIEGO,CA,Millennial,Card Present,0
+A6253786,9.86,Restaurants and Food Services,Credit,LONG BEACH,CA,Unknown,Card Not Present,0
+A2106685,8.92,Restaurants and Food Services,Debit,ELYRIA,OH,Millennial,Card Present,2
+A3599463,14.45,Restaurants and Food Services,Credit,HUDSON,WI,Baby Boomer,Card Present,0
+A6841663,6.94,Restaurants and Food Services,Debit,TUCSON,AZ,Unknown,Card Present,0
+A6215699,15.36,Restaurants and Food Services,Debit,COLUMBUS,OH,Gen Z,Card Not Present,0
+A3151380,31.41,Restaurants and Food Services,Credit,YAKIMA,WA,Millennial,Card Present,0
+A5762103,1.11,Consumer Services,Debit,RICHMOND,VA,Millennial,Card Present,0
+A2521521,17.66,Restaurants and Food Services,Credit,FRANKLIN,NC,Unknown,Card Not Present,2
+A4989633,4.34,Restaurants and Food Services,Debit,MINNEAPOLIS,MN,Millennial,Card Present,0
+A7707896,7.11,Restaurants and Food Services,Debit,CLERMONT,FL,Baby Boomer,Card Present,0
+A8653421,13.35,Restaurants and Food Services,Debit,TOLEDO,OH,Gen Z,Card Present,0
+A7445662,25.39,Restaurants and Food Services,Debit,DENVER,CO,Gen X,Card Present,0
+A8391979,12.7,Restaurants and Food Services,Debit,MINNEAPOLIS,MN,Gen Z,Card Not Present,0
+A5669018,5.44,Restaurants and Food Services,Debit,MADISONVILLE,KY,Unknown,Unknown,0
+A2977453,0.02,Restaurants and Food Services,Credit,MAHOPAC,NY,Silent,Unknown,0
+A3476964,5.71,Restaurants and Food Services,Credit,LOS BANOS,CA,Millennial,Card Present,2
+A1076692,7.91,Restaurants and Food Services,Credit,ODESSA,FL,Millennial,Card Present,0
+A2502520,10.28,Restaurants and Food Services,Credit,ALEXANDRIA,VA,Gen X,Card Present,0
+A6481546,9.46,Restaurants and Food Services,Debit,VINCENNES,IN,Baby Boomer,Card Present,0
+A4161344,19.97,Restaurants and Food Services,Debit,COLLEGE STATION,TX,Unknown,Card Present,0
+A6118408,22.46,Restaurants and Food Services,Credit,CLACKAMAS,OR,Unknown,Card Present,0
+A5325204,5.99,Restaurants and Food Services,Debit,SMICKSBURG,PA,Gen Z,Unknown,0
+A7528508,8.49,Restaurants and Food Services,Debit,SEMINOLE,FL,Gen Z,Card Present,0
+A9889635,17.17,Restaurants and Food Services,Credit,ELGIN,IL,Gen Z,Card Not Present,2
+A6834950,11.08,Restaurants and Food Services,Debit,BRISTOL,TN,Unknown,Card Present,0
+A8577660,31.8,Restaurants and Food Services,Debit,GIBSONIA,PA,Baby Boomer,Card Present,0
+A4881018,3.24,Restaurants and Food Services,Debit,GRANDVIEW,MO,Gen X,Card Present,0
+A3896309,11.49,Restaurants and Food Services,Debit,CINCINNATI,OH,Unknown,Card Present,0
+A8793638,6.76,Restaurants and Food Services,Debit,SAINT PETERSBURG,FL,Baby Boomer,Card Present,0
+A6982327,26.5,Restaurants and Food Services,Debit,SAINT JOHNS,FL,Gen X,Card Present,0
+A5260002,12.09,Restaurants and Food Services,Credit,CHESAPEAKE,VA,Baby Boomer,Card Present,0
+A7382696,6.33,Restaurants and Food Services,Debit,MINNEAPOLIS,MN,Unknown,Card Present,0
+A7156588,18.58,Restaurants and Food Services,Debit,CHICAGO,IL,Unknown,Card Present,0
+A8790520,14.01,Restaurants and Food Services,Debit,IONIA,MI,Baby Boomer,Card Present,0
+A6466653,25.8,Restaurants and Food Services,Credit,ATHENS,TN,Unknown,Card Present,0
+A7790852,31.93,Restaurants and Food Services,Credit,ROYSE CITY,TX,Gen X,Card Present,2
+A9230000,8.48,Restaurants and Food Services,Debit,PALATKA,FL,Unknown,Unknown,0
+A7895780,18.05,Restaurants and Food Services,Debit,NORTH CANTON,OH,Millennial,Card Present,2
+A1290900,6.67,Restaurants and Food Services,Debit,BURTON,MI,Baby Boomer,Card Present,0
+A1964287,10.89,Restaurants and Food Services,Debit,GADSDEN,AL,Unknown,Card Present,0
+A7129960,24.95,Restaurants and Food Services,Debit,MERIDIAN,ID,Millennial,Card Not Present,0
+A4693179,5.62,Restaurants and Food Services,Debit,KALAMAZOO,MI,Gen Z,Card Present,0
+A7762860,25.51,Restaurants and Food Services,Credit,CANTON,GA,Millennial,Card Not Present,0
+A7243666,12.73,Restaurants and Food Services,Debit,GUAYAMA,PR,Unknown,Card Not Present,0
+A5006650,7.98,Restaurants and Food Services,Debit,ALEXANDER CITY,AL,Millennial,Card Present,0
+A8033784,21.02,Restaurants and Food Services,Debit,EL MIRAGE,AZ,Millennial,Card Present,0
+A5054436,18.7,Restaurants and Food Services,Debit,SOUTH BELOIT,IL,Millennial,Card Present,0
+A4517015,21.84,Restaurants and Food Services,Debit,BEDFORD,TX,Millennial,Card Present,0
+A7400196,11.08,Restaurants and Food Services,Debit,COATESVILLE,PA,Gen X,Unknown,0
+A8130144,22.49,Restaurants and Food Services,Debit,FORT WORTH,TX,Gen X,Unknown,1
+A9351006,3.23,Restaurants and Food Services,Credit,LAKE WORTH,FL,Millennial,Card Present,0
+A2440333,12.15,Restaurants and Food Services,Debit,MARIETTA,GA,Unknown,Card Present,2
+A5551002,10.67,Restaurants and Food Services,Debit,WEATHERFORD,TX,Gen X,Card Present,2
+A2966404,34.73,Restaurants and Food Services,Debit,MILFORD,CT,Millennial,Card Present,0
+A9321778,6.74,Restaurants and Food Services,Debit,MINNEAPOLIS,MN,Gen X,Card Present,0
+A6280128,5.86,Restaurants and Food Services,Debit,THOMSON,GA,Millennial,Card Not Present,0
+A4857891,3.28,Restaurants and Food Services,Debit,LAREDO,TX,Gen X,Card Present,0
+A9031387,7.93,Restaurants and Food Services,Debit,MARION,SC,Gen X,Card Present,0
+A2325253,9.66,Restaurants and Food Services,Credit,HENRICO,VA,Millennial,Card Present,0
+A1287736,10.16,Restaurants and Food Services,Debit,ALLIANCE,OH,Millennial,Card Not Present,0
+A4799049,8.49,Restaurants and Food Services,Credit,TAVARES,FL,Gen X,Card Present,2
+A4050116,8.17,Restaurants and Food Services,Debit,BRISTOL,TN,Gen X,Card Present,0
+A3806899,15.09,Restaurants and Food Services,Debit,YOUNGSTOWN,OH,Millennial,Card Present,0
+A5617525,20.03,Restaurants and Food Services,Debit,WHITEFISH,MT,Baby Boomer,Card Present,2
+A9020008,12.29,Restaurants and Food Services,Debit,KISSIMMEE,FL,Unknown,Card Present,0
+A9440206,4.03,Restaurants and Food Services,Debit,SMITHS GROVE,KY,Millennial,Card Present,0
+A7088389,7.0,Restaurants and Food Services,Debit,SOUTH PORTLAND,ME,Millennial,Card Not Present,0
+A2461490,2.05,Restaurants and Food Services,Debit,WARREN,,Gen X,Card Present,0
+A4083357,3.06,Restaurants and Food Services,Debit,HILLIARD,FL,Gen X,Unknown,0
+A6846946,11.18,Restaurants and Food Services,Credit,ELK PARK,NC,Baby Boomer,Card Present,0
+A4488960,4.88,Restaurants and Food Services,Debit,PARKESBURG,PA,Gen X,Card Present,1
+A1348313,3.58,Consumer Services,Credit,SOUTH GLENS FALLS,NY,Gen X,Card Present,0
+A5791804,39.72,Restaurants and Food Services,Debit,LAKE,MI,Millennial,Card Present,0
+A9911873,9.88,Restaurants and Food Services,Debit,AIKEN,SC,Unknown,Card Not Present,1
+A4144879,5.07,Restaurants and Food Services,Debit,MINNEAPOLIS,MN,Unknown,Card Present,0
+A9179793,32.0,Restaurants and Food Services,Debit,CLARKSTON,WA,Millennial,Card Present,0
+A8459241,10.92,Restaurants and Food Services,Credit,BILLINGS,MT,Millennial,Card Present,0
+A2295569,46.66,Restaurants and Food Services,Debit,DALLAS,TX,Millennial,Card Present,0
+A2341554,4.45,Restaurants and Food Services,Debit,LAS VEGAS,NV,Unknown,Card Present,0
+A6426005,1.33,Consumer Services,Credit,PHOENIX,AZ,Millennial,Card Present,0
+A9384681,19.63,Restaurants and Food Services,Debit,CHALMETTE,LA,Unknown,Card Present,0
+A7184830,5.31,Restaurants and Food Services,Debit,NORWALK,OH,Millennial,Card Present,0
+A7213720,14.82,Restaurants and Food Services,Credit,MORRISTOWN,NJ,Millennial,Card Present,2
+A4346390,11.02,Restaurants and Food Services,Debit,BEAUMONT,TX,Gen Z,Card Present,2
+A2150233,14.58,Restaurants and Food Services,Credit,LEWISVILLE,TX,Unknown,Card Present,2
+A4668724,20.44,Restaurants and Food Services,Debit,MCKINNEY,TX,Millennial,Card Present,0
+A6355447,24.07,Restaurants and Food Services,Debit,ROY,UT,Gen Z,Card Present,0
+A3727487,10.03,Restaurants and Food Services,Debit,REYNOLDSBURG,OH,Millennial,Card Not Present,2
+A9424377,6.05,Restaurants and Food Services,Debit,LAWRENCE,KS,Millennial,Card Present,0
+A4349374,7.71,Restaurants and Food Services,Debit,BUFFALO,NY,Unknown,Unknown,0
+A8080535,6.47,Restaurants and Food Services,Debit,MIDVALE,UT,Millennial,Card Present,0
+A9880023,8.26,Restaurants and Food Services,Debit,EUSTIS,FL,Millennial,Unknown,0
+A8391979,15.67,Restaurants and Food Services,Credit,FULTONDALE,AL,Millennial,Card Present,0
+A4992390,24.85,Restaurants and Food Services,Debit,CHICAGO,IL,Baby Boomer,Card Not Present,0
+A7145164,4.62,Restaurants and Food Services,Debit,SAN ANTONIO,TX,Gen X,Card Present,0
+A9553852,1.11,Consumer Services,Debit,PFAFFTOWN,NC,Millennial,Unknown,2
+A9814348,26.21,Restaurants and Food Services,Debit,DAVENPORT,IA,Unknown,Card Present,2
+A5224012,50.21,Restaurants and Food Services,Credit,SAINT PETERSBURG,FL,Baby Boomer,Card Present,2
+A2662007,48.4,Restaurants and Food Services,Credit,ARLINGTON,VA,Gen X,Card Not Present,2
+A1836366,21.94,Restaurants and Food Services,Debit,CENTER LINE,MI,Gen Z,Card Present,0
+A8676776,23.04,Restaurants and Food Services,Credit,MANASSAS,VA,Baby Boomer,Card Not Present,2
+A3724388,17.54,Restaurants and Food Services,Debit,SYRACUSE,NY,Millennial,Card Present,0
+A5669018,37.69,Restaurants and Food Services,Debit,OGDEN,UT,Gen Z,Card Present,0
+A8804123,35.73,Restaurants and Food Services,Debit,WEST PALM BEACH,FL,Millennial,Card Present,0
+A9442284,19.04,Restaurants and Food Services,Debit,WARREN,MI,Gen X,Card Present,0
+A1631176,15.18,Restaurants and Food Services,Debit,NEWPORT,MI,Gen X,Card Present,1
+A8640502,12.93,Restaurants and Food Services,Debit,EUCLID,OH,Gen X,Card Not Present,0
+A4992676,1.35,Restaurants and Food Services,Debit,WOOD RIVER,,Millennial,Card Present,0
+A6504834,12.32,Restaurants and Food Services,Debit,COLLINSVILLE,VA,Unknown,Card Present,0
+A3579337,9.54,Restaurants and Food Services,Debit,STUARTS DRAFT,VA,Gen X,Card Present,2
+A5231876,10.12,Restaurants and Food Services,Debit,NEW PHILADELPHIA,OH,Unknown,Card Not Present,0
+A7521711,13.4,Restaurants and Food Services,Debit,PAINESVILLE,OH,Millennial,Card Present,0
+A8848807,4.17,Restaurants and Food Services,Debit,ENFIELD,CT,Gen Z,Card Present,0
+A4144879,34.29,Restaurants and Food Services,Debit,TUCSON,AZ,Gen X,Card Present,0
+A1032133,10.8,Restaurants and Food Services,Debit,WESTERVILLE,OH,Gen Z,Card Present,0
+A5780168,3.21,Restaurants and Food Services,Debit,PETERSBURG,MI,Millennial,Card Present,0
+A5873198,18.38,Restaurants and Food Services,Debit,SALEM,OR,Millennial,Card Present,0
+A7336245,12.71,Restaurants and Food Services,Debit,CARSON,WA,Unknown,Card Present,0
+A9059988,45.7,Restaurants and Food Services,Credit,CENTERVILLE,IA,Millennial,Card Not Present,0
+A4727693,18.94,Restaurants and Food Services,Credit,JACKSONVILLE,FL,Millennial,Unknown,0
+A9154166,3.57,Services,Debit,SHERRODSVILLE,OH,Millennial,Card Present,0
+A3060586,15.65,Restaurants and Food Services,Debit,WOODVILLE,OH,Millennial,Card Present,0
+A4699599,11.51,Restaurants and Food Services,Debit,BRIDGE CITY,TX,Unknown,Unknown,0
+A2584970,4.85,Restaurants and Food Services,Credit,LOGANVILLE,WI,Baby Boomer,Card Present,0
+A4837937,6.69,Restaurants and Food Services,Credit,TACOMA,WA,Millennial,Card Present,2
+A7707896,11.89,Restaurants and Food Services,Credit,TECUMSEH,KS,Unknown,Card Present,0
+A1010237,12.01,Restaurants and Food Services,Credit,CRANBERRY TOWNSHIP,PA,Baby Boomer,Card Present,0
+A4050427,2.42,Restaurants and Food Services,Debit,CLARKSVILLE,TN,Gen Z,Card Present,0
+A1671376,4.93,Restaurants and Food Services,Debit,LA PORTE,TX,Millennial,Unknown,0
+A9841987,14.08,Restaurants and Food Services,Debit,LEWISTON,ID,Millennial,Unknown,0
+A7401902,6.22,Restaurants and Food Services,Debit,MACCLENNY,,Gen Z,Unknown,0
+A3111779,16.21,Restaurants and Food Services,Debit,SAINT LOUIS,MO,Millennial,Unknown,0
+A9568963,8.58,Restaurants and Food Services,Debit,LAFAYETTE,LA,Gen X,Card Present,2
+A4346568,8.53,Restaurants and Food Services,Debit,HATBORO,PA,Unknown,Card Present,0
+A2732818,11.42,Restaurants and Food Services,Debit,GREENSBORO,NC,Gen X,Unknown,0
+A4478873,16.88,Restaurants and Food Services,Debit,DENVER,,Gen X,Card Present,0
+A2203803,4.1,Restaurants and Food Services,Debit,ABBEVILLE,LA,Gen X,Card Present,0
+A3311965,0.46,Retail,Debit,MEDINA,OH,Baby Boomer,Card Present,0
+A3112100,8.95,Restaurants and Food Services,Credit,CEDAR CITY,UT,Millennial,Card Present,0
+A4860685,8.8,Restaurants and Food Services,Debit,WOODSIDE,NY,Gen Z,Card Present,0
+A6849919,21.18,Restaurants and Food Services,Credit,NORWAY,IA,Unknown,Card Present,2
+A3587998,18.1,Restaurants and Food Services,Debit,AVON LAKE,OH,Gen X,Card Present,0
+A9230000,31.9,Restaurants and Food Services,Debit,LAKE PARK,GA,Gen Z,Card Not Present,0
+A2997293,13.84,Restaurants and Food Services,Debit,DENVER,CO,Gen X,Card Present,0
+A5063180,9.37,Restaurants and Food Services,Debit,PORT CLINTON,OH,Gen Z,Card Present,0
+A8316112,10.04,Restaurants and Food Services,Credit,MANVEL,TX,Unknown,Card Present,0
+A5165518,21.94,Restaurants and Food Services,Debit,UPLAND,CA,Gen X,Card Present,0
+A7795514,30.87,Restaurants and Food Services,Debit,WINNABOW,NC,Baby Boomer,Card Present,0
+A6909480,4.22,Restaurants and Food Services,Debit,GOBLES,MI,Unknown,Card Present,0
+A5135076,12.44,Restaurants and Food Services,Debit,MIDLAND,TX,Gen Z,Card Present,0
+A2584970,6.24,Restaurants and Food Services,Debit,LONDON,OH,Gen X,Card Present,0
+A8746847,3.5,Restaurants and Food Services,Debit,ROSCOE,IL,Millennial,Card Present,1
+A5693315,5.01,Restaurants and Food Services,Debit,COTTAGE GROVE,MN,Millennial,Card Present,0
+A4220505,12.42,Restaurants and Food Services,Debit,SPRINGFIELD,VA,Gen X,Card Present,0
+A7527647,19.05,Restaurants and Food Services,Debit,LOS ANGELES,CA,Unknown,Card Present,0
+A1623662,14.33,Restaurants and Food Services,Debit,MAUD,TX,Millennial,Card Present,0
+A6140690,13.68,Restaurants and Food Services,Debit,WAPAKONETA,OH,Millennial,Card Present,0
+A6834950,28.5,Restaurants and Food Services,Debit,EL PASO,TX,Gen Z,Card Present,0
+A7382696,19.77,Restaurants and Food Services,Debit,HARTSVILLE,SC,Gen X,Card Present,0
+A5510313,35.75,Restaurants and Food Services,Debit,VANCOUVER,WA,Millennial,Card Present,0
+A9075064,9.46,Restaurants and Food Services,Debit,RANDLEMAN,NC,Baby Boomer,Unknown,0
+A9572339,12.77,Restaurants and Food Services,Debit,FORT GRATIOT,MI,Gen Z,Card Present,1
+A5353713,14.97,Restaurants and Food Services,Debit,CINCINNATI,OH,Millennial,Card Present,2
+A6643440,9.52,Restaurants and Food Services,Debit,BRIGHAM CITY,,Millennial,Card Not Present,0
+A8029197,18.34,Restaurants and Food Services,Credit,CHARLOTTE,NC,Baby Boomer,Card Present,0
+A7055645,19.3,Restaurants and Food Services,Debit,MEMPHIS,TN,Unknown,Card Present,2
+A6809016,5.51,Restaurants and Food Services,Credit,AURORA,CO,Millennial,Card Not Present,2
+A4769950,5.78,Restaurants and Food Services,Debit,RAYLAND,OH,Unknown,Card Present,2
+A5619847,4.97,Restaurants and Food Services,Debit,TAYLOR,MI,Millennial,Card Not Present,0
+A4089167,8.79,Restaurants and Food Services,Debit,WINFIELD,WV,Millennial,Card Present,0
+A5797119,12.08,Restaurants and Food Services,Credit,NEW PORT RICHEY,FL,Gen Z,Card Present,1
+A4481407,20.68,Restaurants and Food Services,Debit,SENECA,SC,Unknown,Card Present,2
+A4267252,1.52,Restaurants and Food Services,Debit,LEBANON,TN,Gen X,Card Present,0
+A6691903,11.19,Restaurants and Food Services,Debit,RISON,AR,Gen Z,Card Present,0
+A3601348,10.88,Restaurants and Food Services,Debit,JACKSON,MS,Millennial,Card Present,2
+A1268226,12.81,Restaurants and Food Services,Debit,JACKSONVILLE,FL,Millennial,Unknown,0
+A6585225,19.84,Restaurants and Food Services,Debit,LAS VEGAS,NV,Millennial,Card Not Present,2
+A3777126,18.72,Restaurants and Food Services,Debit,ANNA,TX,Millennial,Card Present,0
+A6615450,3.44,Restaurants and Food Services,Debit,RIO RANCHO,NM,Gen X,Unknown,2
+A1638293,14.08,Restaurants and Food Services,Debit,MURRIETA,CA,Millennial,Card Present,0
+A7335664,29.81,Restaurants and Food Services,Debit,MEMPHIS,TN,Unknown,Card Not Present,2
+A8767833,43.75,Restaurants and Food Services,Debit,MIDDLEBURG,FL,Millennial,Unknown,1
+A9169556,36.25,Restaurants and Food Services,Debit,WICHITA,KS,Gen Z,Unknown,0
+A7145164,24.92,Restaurants and Food Services,Credit,ZEBULON,NC,Millennial,Card Present,0
+A1344735,14.63,Restaurants and Food Services,Debit,GROVELAND,FL,Baby Boomer,Unknown,0
+A1679896,4.98,Restaurants and Food Services,Debit,YOUNGSTOWN,OH,Unknown,Card Present,0
+A2027132,23.88,Restaurants and Food Services,Debit,IRVING,TX,Millennial,Unknown,0
+A8697603,6.6,Restaurants and Food Services,Credit,LAS VEGAS,NV,Baby Boomer,Card Present,2
+A5737571,22.5,Restaurants and Food Services,Credit,SPRING,TX,Gen Z,Card Present,0
+A9932320,12.33,Restaurants and Food Services,Debit,UPPER MARLBORO,MD,Millennial,Card Present,1
+A5380977,5.84,Restaurants and Food Services,Credit,NAPLES,FL,Unknown,Card Present,2
+A7594124,2.89,Restaurants and Food Services,Debit,FRANKLIN,TN,Millennial,Card Not Present,0
+A9435088,4.11,Restaurants and Food Services,Debit,TULSA,,Gen Z,Card Present,0
+A6673596,9.08,Restaurants and Food Services,Debit,COLUMBUS,OH,Gen Z,Card Present,1
+A2666014,16.73,Restaurants and Food Services,Debit,FORT WORTH,TX,Millennial,Card Present,0
+A8542138,36.97,Restaurants and Food Services,Debit,LINDEN,NJ,Millennial,Card Present,0
+A1361118,7.47,Restaurants and Food Services,Debit,WYOMING,MI,Gen Z,Card Not Present,2
+A2656348,5.01,Restaurants and Food Services,Debit,BEAUMONT,TX,Millennial,Unknown,0
+A6026356,3.58,Restaurants and Food Services,Debit,MCMINNVILLE,OR,Gen Z,Card Present,0
+A7585154,10.58,Restaurants and Food Services,Debit,IOLA,KS,Unknown,Card Present,2
+A6034007,10.83,Restaurants and Food Services,Debit,TOOELE,UT,Millennial,Card Present,2
+A5165671,1.99,Consumer Services,Debit,MORGANTOWN,PA,Gen Z,Card Present,0
+A2882666,35.01,Restaurants and Food Services,Debit,DALTON,GA,Unknown,Card Not Present,0
+A3674437,6.95,Restaurants and Food Services,Debit,SAUQUOIT,NY,Unknown,Card Not Present,2
+A4705339,1.59,Restaurants and Food Services,Debit,MONTGOMERY,AL,Gen Z,Card Present,0
+A4248503,6.22,Services,Debit,RICHMOND,VA,Unknown,Unknown,0
+A7015377,18.7,Restaurants and Food Services,Debit,GREAT FALLS,SC,Gen X,Card Present,0
+A3749131,5.68,Restaurants and Food Services,Debit,HARRISON TOWNSHIP,MI,Gen X,Card Present,1
+A8506410,14.18,Restaurants and Food Services,Credit,COSTA MESA,CA,Millennial,Card Present,0
+A9313139,8.43,Restaurants and Food Services,Credit,AGOURA HILLS,CA,Millennial,Card Present,0
+A6213368,14.84,Restaurants and Food Services,Credit,JOPLIN,MO,Gen X,Card Present,0
+A9841987,11.74,Restaurants and Food Services,Debit,MESQUITE,TX,Gen Z,Card Not Present,0
+A8087660,99.13,Restaurants and Food Services,Credit,SEATTLE,WA,Gen X,Card Not Present,2
+A3742579,30.62,Restaurants and Food Services,Debit,CALEXICO,CA,Millennial,Card Present,0
+A4880541,2.61,Restaurants and Food Services,Credit,PELHAM,AL,Baby Boomer,Card Present,0
+A4330597,23.2,Restaurants and Food Services,Credit,PAUMA VALLEY,CA,Baby Boomer,Card Present,1
+A1599800,8.28,Restaurants and Food Services,Credit,ANDERSONVILLE,TN,Gen X,Card Present,0
+A3352371,17.67,Restaurants and Food Services,Debit,SOLON SPRINGS,WI,Unknown,Unknown,0
+A9088326,17.35,Restaurants and Food Services,Debit,HONOLULU,HI,Baby Boomer,Card Present,0
+A1559973,16.54,Restaurants and Food Services,Debit,SPENCER,IN,Unknown,Card Not Present,1
+A5267297,7.15,Restaurants and Food Services,Debit,SEBASTIAN,FL,Gen X,Card Present,0
+A7131314,1.71,Restaurants and Food Services,Credit,PARRISH,FL,Unknown,Card Present,2
+A1824215,10.43,Restaurants and Food Services,Credit,SEVERNA PARK,MD,Millennial,Card Not Present,0
+A6977515,11.41,Restaurants and Food Services,Debit,JONESBORO,AR,Baby Boomer,Card Present,0
+A6224600,5.22,Restaurants and Food Services,Credit,CALUMET,MI,Baby Boomer,Card Present,0
+A8248071,11.24,Restaurants and Food Services,Debit,AIKEN,SC,Baby Boomer,Card Present,1
+A6089240,14.78,Restaurants and Food Services,Debit,ALBUQUERQUE,NM,Millennial,Unknown,2
+A3402656,3.93,Restaurants and Food Services,Credit,SPRINGFIELD,VA,Baby Boomer,Card Present,2
+A2947098,5.85,Restaurants and Food Services,Debit,CLEVELAND,OH,Gen X,Card Present,0
+A6355447,35.95,Restaurants and Food Services,Debit,JACKSONVILLE BEACH,FL,Unknown,Unknown,0
+A6002797,9.34,Restaurants and Food Services,Debit,HODGES,SC,Baby Boomer,Card Present,0
+A4141005,1.77,Restaurants and Food Services,Debit,STOKESDALE,NC,Gen Z,Unknown,0
+A7620937,25.31,Restaurants and Food Services,Debit,CLINTON,MD,Gen X,Card Present,2
+A6769359,1.23,Restaurants and Food Services,Debit,TELFORD,PA,Millennial,Card Present,0
+A8804123,7.41,Restaurants and Food Services,Payroll,LAFAYETTE,IN,Millennial,Unknown,0
+A7145164,7.14,Restaurants and Food Services,Credit,PALOS PARK,IL,Unknown,Card Present,2
+A3237264,3.81,Restaurants and Food Services,Debit,EL PASO,TX,Gen X,Card Present,0
+A1129756,11.8,Restaurants and Food Services,Debit,SAINT PETERS,MO,Gen Z,Unknown,0
+A9981593,7.21,Restaurants and Food Services,Debit,SNELLVILLE,GA,Gen Z,Card Present,0
+A1431528,8.75,Restaurants and Food Services,Debit,SOUTH BOSTON,VA,Millennial,Card Present,2
+A4915468,1.83,Consumer Services,Debit,GRAYSLAKE,IL,Gen Z,Unknown,0
+A7065834,74.44,Restaurants and Food Services,Debit,EUSTIS,FL,Gen X,Card Present,0
+A6090895,22.59,Restaurants and Food Services,Debit,GUYSVILLE,OH,Unknown,Card Present,2
+A8373229,9.28,Restaurants and Food Services,Debit,RAY,MI,Millennial,Card Not Present,0
+A1068969,20.08,Restaurants and Food Services,Debit,BREMEN,IN,Gen X,Unknown,2
+A6109011,47.37,Restaurants and Food Services,Debit,GREENWOOD,SC,Millennial,Card Not Present,0
+A7592983,33.77,Restaurants and Food Services,Debit,FORT WORTH,TX,Gen X,Card Present,2
+A4752290,7.97,Restaurants and Food Services,Credit,AUDUBON,MN,Baby Boomer,Card Not Present,0
+A5165390,6.42,Restaurants and Food Services,Debit,KINGSPORT,TN,Gen X,Card Not Present,0
+A9262027,11.34,Restaurants and Food Services,Debit,ANDERSON,IN,Baby Boomer,Card Present,0
+A1753450,42.67,Restaurants and Food Services,Credit,COLEMAN,WI,Baby Boomer,Card Present,0
+A6599302,22.99,Restaurants and Food Services,Debit,FULTONDALE,AL,Gen X,Card Present,0
+A3714647,4.32,Restaurants and Food Services,Debit,DELTONA,FL,Baby Boomer,Card Present,0
+A6466653,13.25,Restaurants and Food Services,Debit,LAKE CHARLES,LA,Millennial,Card Not Present,0
+A9816715,11.8,Restaurants and Food Services,Debit,WASHINGTON,DC,Millennial,Card Not Present,0
+A3696974,5.43,Restaurants and Food Services,Debit,OVERTON,NV,Gen Z,Card Present,0
+A9403648,31.18,Restaurants and Food Services,Credit,ALPINE,UT,Baby Boomer,Card Present,0
+A4770740,18.52,Restaurants and Food Services,Credit,EAGLE RIVER,AK,Baby Boomer,Card Not Present,0
+A8206448,16.37,Restaurants and Food Services,Credit,LARGO,FL,Baby Boomer,Card Present,0
+A1711003,47.18,Restaurants and Food Services,Debit,LAKE CHARLES,LA,Baby Boomer,Card Present,0
+A3876492,25.35,Restaurants and Food Services,Credit,WAYNE,NJ,Millennial,Card Not Present,0
+A5858059,15.35,Restaurants and Food Services,Debit,NORTH ADAMS,MA,Millennial,Card Present,0
+A9790890,20.19,Restaurants and Food Services,Debit,JACKSON,MI,Unknown,Card Not Present,0
+A6834950,7.92,Restaurants and Food Services,Debit,HUNTERSVILLE,NC,Baby Boomer,Unknown,0
+A1908138,0.02,Restaurants and Food Services,Credit,MENDHAM,NJ,Baby Boomer,Unknown,0
+A1352695,19.3,Restaurants and Food Services,Debit,AKRON,OH,Millennial,Card Present,0
+A1827719,5.05,Restaurants and Food Services,Debit,MARIETTA,GA,Unknown,Card Present,0
+A9153945,71.53,Travel and Leisure,Credit,VERO BEACH,FL,Silent,Card Not Present,1
+A3949036,2.71,Restaurants and Food Services,Debit,ROUND LAKE,IL,Gen X,Card Present,0
+A8080535,5.08,Restaurants and Food Services,Credit,RENO,NV,Unknown,Card Present,0
+A4292284,35.22,Restaurants and Food Services,Debit,AUBURN,IN,Millennial,Card Present,2
+A2438413,34.3,Restaurants and Food Services,Credit,DOWNEY,CA,Unknown,Card Present,0
+A6452091,25.97,Restaurants and Food Services,Debit,UVALDE,TX,Millennial,Card Present,0
+A1994239,3.26,Restaurants and Food Services,Debit,EVANSVILLE,IN,Baby Boomer,Card Present,0
+A3282406,9.89,Restaurants and Food Services,Debit,WINSTON SALEM,NC,Gen Z,Unknown,0
+A8463340,0.42,Restaurants and Food Services,Debit,GLENDALE,AZ,Gen Z,Unknown,0
+A3468603,12.59,Restaurants and Food Services,Debit,CIRCLEVILLE,OH,Millennial,Card Present,2
+A3748767,1.61,Restaurants and Food Services,Debit,KING OF PRUSSIA,PA,Baby Boomer,Card Present,0
+A6504775,24.97,Restaurants and Food Services,Debit,ASHEBORO,NC,Millennial,Unknown,0
+A2469423,15.36,Restaurants and Food Services,Debit,ESTHERVILLE,IA,Unknown,Card Present,1
+A4631336,6.43,Restaurants and Food Services,Debit,VINELAND,NJ,Millennial,Card Present,0
+A7670794,8.18,Restaurants and Food Services,Debit,HOLLY SPRINGS,MS,Gen Z,Card Present,1
+A1106359,10.12,Restaurants and Food Services,Debit,PHOENIX,AZ,Gen X,Unknown,0
+A3430994,25.72,Restaurants and Food Services,Debit,BICKNELL,IN,Baby Boomer,Card Present,0
+A6439621,14.43,Restaurants and Food Services,Credit,KERENS,TX,Millennial,Card Present,2
+A3410438,38.0,Restaurants and Food Services,Debit,BLOOMFIELD,IN,Unknown,Card Present,0
+A5650186,35.59,Restaurants and Food Services,Debit,AURORA,CO,Gen Z,Card Present,0
+A3352371,15.17,Restaurants and Food Services,Debit,CANTON,OH,Millennial,Card Present,0
+A4321376,7.6,Restaurants and Food Services,Debit,MINNEAPOLIS,MN,Millennial,Card Present,0
+A4260479,8.39,Restaurants and Food Services,Credit,MINNEAPOLIS,KS,Baby Boomer,Card Present,0
+A5240128,10.18,Restaurants and Food Services,Debit,MEMPHIS,TN,Gen Z,Card Present,0
+A6239834,32.41,Restaurants and Food Services,Debit,JANESVILLE,WI,Gen X,Card Not Present,0
+A8314142,15.84,Restaurants and Food Services,Debit,MANCHESTER,NH,Unknown,Card Present,0
+A1967303,25.58,Restaurants and Food Services,Debit,MANLIUS,NY,Millennial,Unknown,0
+A7129755,9.65,Restaurants and Food Services,Debit,VISTA,CA,Gen X,Card Present,2
+A1348050,13.01,Restaurants and Food Services,Debit,DUNCAN,OK,Millennial,Card Present,0
+A7213720,5.89,Restaurants and Food Services,Debit,LIVONIA,MI,Unknown,Unknown,0
+A8162291,7.03,Restaurants and Food Services,Debit,MINNEAPOLIS,MN,Gen Z,Card Present,0
+A1282280,5.14,Restaurants and Food Services,Credit,VERO BEACH,FL,Gen X,Card Present,0
+A1695606,2.87,Restaurants and Food Services,Debit,COLUMBUS,OH,Millennial,Card Present,0
+A6605109,1.52,Restaurants and Food Services,Credit,NEW BRAUNFELS,TX,Baby Boomer,Card Present,0
+A3112939,13.32,Restaurants and Food Services,Credit,ELKHART LAKE,WI,Millennial,Card Not Present,0
+A4015725,10.82,Restaurants and Food Services,Debit,BOSTON,MA,Gen Z,Card Present,1
+A1739118,9.85,Restaurants and Food Services,Credit,CATHEDRAL CITY,CA,Unknown,Card Not Present,0
+A5489593,18.41,Restaurants and Food Services,Debit,LELAND,NC,Millennial,Card Present,0
+A6253786,27.6,Restaurants and Food Services,Debit,SPRINGFIELD,OH,Gen X,Card Present,0
+A8064170,24.43,Restaurants and Food Services,Debit,FARGO,ND,Gen X,Card Present,2
+A5822451,13.51,Restaurants and Food Services,Debit,PARSONS,KS,Gen Z,Card Not Present,0
+A9635721,1.22,Consumer Services,Debit,CAMBRIDGE,MA,Unknown,Card Present,0
+A9613480,61.23,Restaurants and Food Services,Debit,ROSEMOUNT,MN,Unknown,Card Not Present,0
+A7968391,8.92,Restaurants and Food Services,Debit,ANTIOCH,TN,Millennial,Card Present,0
+A3283903,51.74,Restaurants and Food Services,Credit,GOLDEN,CO,Gen X,Card Present,0
+A3347672,3.26,Restaurants and Food Services,Credit,NOGALES,AZ,Millennial,Card Present,0
+A8845019,26.03,Restaurants and Food Services,Debit,WAKEMAN,OH,Gen X,Card Present,0
+A5635142,10.14,Restaurants and Food Services,Debit,WYOMING,MI,Millennial,Card Not Present,2
+A8525680,6.75,Restaurants and Food Services,Credit,CHANDLER,AZ,Baby Boomer,Card Present,0
+A9891694,14.18,Restaurants and Food Services,Debit,TROY,OH,Millennial,Card Present,0
+A7707896,10.2,Restaurants and Food Services,Debit,HENRICO,VA,Gen X,Unknown,0
+A6942093,12.75,Restaurants and Food Services,Debit,COLUMBUS,OH,Millennial,Unknown,0
+A1101525,12.54,Restaurants and Food Services,Credit,GASTON,SC,Baby Boomer,Card Present,1
+A3714339,25.62,Restaurants and Food Services,Credit,CHANTILLY,VA,Gen X,Card Not Present,2
+A2777292,28.59,Restaurants and Food Services,Debit,MAURERTOWN,VA,Millennial,Card Not Present,0
+A8868278,34.1,Restaurants and Food Services,Debit,DELAWARE,OH,Baby Boomer,Unknown,0
+A6080876,16.69,Restaurants and Food Services,Debit,MONTGOMERY,AL,Unknown,Card Present,0
+A8099049,8.72,Restaurants and Food Services,Debit,CLEARFIELD,UT,Gen Z,Card Present,0
+A3567327,2.39,Restaurants and Food Services,Debit,MORGANTOWN,WV,Millennial,Card Present,0
+A9755017,11.72,Restaurants and Food Services,Debit,EVANSVILLE,IN,Baby Boomer,Card Present,1
+A7050591,16.03,Restaurants and Food Services,Debit,RAIFORD,FL,Millennial,Unknown,1
+A3650357,4.18,Restaurants and Food Services,Debit,MIDLAND,MI,Baby Boomer,Card Present,0
+A4321376,13.06,Restaurants and Food Services,Credit,MINNEAPOLIS,MN,Unknown,Card Not Present,0
+A4438735,9.75,Restaurants and Food Services,Debit,EL PASO,TX,Millennial,Card Present,0
+A4519090,7.81,Restaurants and Food Services,Debit,BRIDGEPORT,OH,Millennial,Card Present,0
+A4145986,20.59,Restaurants and Food Services,Debit,DEL VALLE,TX,Gen Z,Card Present,0
+A7533160,13.28,Restaurants and Food Services,Credit,TWIN FALLS,ID,Gen X,Card Present,0
+A9846700,13.79,Restaurants and Food Services,Debit,JACKSONVILLE,FL,Gen X,Card Present,0
+A8029197,17.22,Restaurants and Food Services,Debit,LAKE VILLA,IL,Unknown,Card Present,0
+A1147105,3.2,Restaurants and Food Services,Debit,ANDERSON,SC,Millennial,Card Present,2
+A6140690,18.33,Restaurants and Food Services,Credit,PINELLAS PARK,FL,Unknown,Card Not Present,0
+A9512494,14.18,Restaurants and Food Services,Debit,ASHLAND CITY,TN,Millennial,Card Present,0
+A5596508,5.31,Restaurants and Food Services,Debit,WAMPUM,PA,Gen X,Card Present,2
+A2170655,26.88,Restaurants and Food Services,Debit,FAIRFAX,VT,Gen X,Card Not Present,0
+A6595825,5.92,Restaurants and Food Services,Debit,NEW BOSTON,TX,Unknown,Card Not Present,0
+A1394100,20.48,Restaurants and Food Services,Debit,HOUSTON,TX,Gen X,Card Not Present,0
+A1389476,17.1,Restaurants and Food Services,Debit,ELKHART,IN,Unknown,Card Present,0
+A9938403,15.1,Restaurants and Food Services,Debit,MILAN,MI,Millennial,Card Not Present,0
+A3126917,6.09,Restaurants and Food Services,Debit,GREENSBORO,NC,Gen X,Unknown,0
+A7678007,2.95,Restaurants and Food Services,Debit,FREMONT,MI,Baby Boomer,Card Present,2
+A9322628,24.96,Restaurants and Food Services,Debit,CORDESVILLE,SC,Unknown,Card Present,0
+A5746661,10.4,Restaurants and Food Services,Debit,EVANSTON,IL,Millennial,Card Present,0
+A4154550,9.89,Restaurants and Food Services,Debit,SAN DIEGO,CA,Gen Z,Card Not Present,2
+A5533883,3.04,Restaurants and Food Services,Debit,HIGH POINT,NC,Gen X,Unknown,0
+A6792429,3.11,Consumer Services,Credit,DAYTON,MN,Gen X,Card Present,0
+A4571357,14.66,Restaurants and Food Services,Credit,NEW YORK,NY,Millennial,Card Present,0
+A6431371,19.02,Restaurants and Food Services,Debit,ASHEBORO,NC,Millennial,Unknown,0
+A4146607,20.56,Restaurants and Food Services,Debit,DENNISON,OH,Gen X,Card Present,0
+A2856865,18.04,Restaurants and Food Services,Credit,HINCKLEY,OH,Millennial,Card Present,2
+A1521887,16.78,Restaurants and Food Services,Credit,AUBREY,TX,Millennial,Card Present,0
+A6175737,7.19,Restaurants and Food Services,Debit,MURFREESBORO,TN,Gen X,Card Present,0
+A8391979,17.51,Restaurants and Food Services,Debit,MILL HALL,PA,Unknown,Card Present,1
+A1138890,9.65,Restaurants and Food Services,Credit,CADILLAC,MI,Gen X,Card Present,0
+A1145720,16.7,Restaurants and Food Services,Debit,PENSACOLA,FL,Unknown,Card Present,0
+A1150792,6.0,Restaurants and Food Services,Debit,WILMINGTON,DE,Baby Boomer,Unknown,0
+A7864414,1.62,Restaurants and Food Services,Debit,BELL BUCKLE,TN,Gen X,Card Not Present,0
+A2584970,13.34,Restaurants and Food Services,Debit,AKRON,OH,Unknown,Card Not Present,0
+A7603537,17.61,Restaurants and Food Services,Debit,COVINGTON,KY,Unknown,Card Present,0
+A7568125,15.87,Restaurants and Food Services,Debit,PRATTVILLE,AL,Millennial,Unknown,0
+A4038475,31.0,Restaurants and Food Services,Debit,ROMULUS,MI,Millennial,Card Present,0
+A4816718,18.01,Restaurants and Food Services,Debit,CLEVELAND,OH,Millennial,Card Present,0
+A4130067,20.72,Restaurants and Food Services,Credit,WALKER,MN,Baby Boomer,Card Present,0
+A5915901,5.45,Restaurants and Food Services,Credit,ROWLAND HEIGHTS,CA,Baby Boomer,Card Present,0
+A2870284,1.84,Restaurants and Food Services,Debit,TEN MILE,TN,Millennial,Card Present,2
+A7922038,13.85,Restaurants and Food Services,Debit,CULVER CITY,CA,Gen X,Card Present,0
+A9475972,3.63,Restaurants and Food Services,Credit,MADISON,TN,Unknown,Card Present,0
+A3434108,12.97,Restaurants and Food Services,Credit,SPRINGVILLE,PA,Millennial,Card Present,0
+A1085788,28.01,Restaurants and Food Services,Debit,CLINTON TOWNSHIP,MI,Millennial,Card Present,2
+A8388911,3.5,Restaurants and Food Services,Debit,HOLLAND,MI,Gen X,Card Present,0
+A9815117,30.14,Restaurants and Food Services,Debit,KUNA,ID,Millennial,Unknown,0
+A9648784,6.2,Restaurants and Food Services,Debit,OCEAN ISLE BEACH,NC,Baby Boomer,Card Present,0
+A1518887,4.75,Restaurants and Food Services,Debit,MEDINA,OH,Millennial,Card Present,2
+A5520932,3.14,Restaurants and Food Services,Debit,SWARTZ CREEK,MI,Millennial,Card Present,0
+A8657868,16.02,Restaurants and Food Services,Debit,MURFREESBORO,TN,Unknown,Card Present,0
+A8474108,18.76,Restaurants and Food Services,Debit,MANCHESTER,MI,Millennial,Card Present,0
+A3651766,14.01,Restaurants and Food Services,Debit,PETERSBURG,VA,Millennial,Card Present,2
+A3367688,10.09,Restaurants and Food Services,Debit,MEMPHIS,TN,Millennial,Card Present,0
+A9322628,10.88,Restaurants and Food Services,Debit,EVANSVILLE,IN,Millennial,Card Not Present,0
