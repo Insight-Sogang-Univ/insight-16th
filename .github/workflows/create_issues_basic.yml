@@ -39,6 +39,7 @@ jobs:
 
           # 16기의 이름:깃허브아이디
           members=(
+            "방서영:sy212-894"
           )
 
           for info in "${members[@]}"
