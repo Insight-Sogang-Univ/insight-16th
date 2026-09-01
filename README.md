@@ -45,7 +45,7 @@
     # On branch gildong(내 브랜치 이름) 뜨면 성공!
 
     # 1. 메인브랜치에서 템플릿 로드
-    git fetch origin main
+    git fetch origin
     git restore --source=origin/main -- basic/template/session00    #원하는 세션 번호 입력
     # 으로 템플릿 가져오기 + 본인 폴더 안에 템플릿 복붙하기
 
