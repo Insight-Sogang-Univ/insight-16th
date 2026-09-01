@@ -39,6 +39,19 @@ jobs:
 
           # 16기의 이름:깃허브아이디
           members=(
+            "이소연:ii-so"
+            "김성욱:sungwooki02"
+            "이선주:oranglee06"
+            "서준형:puppy57201-stack"
+            "고혜원:hw161"
+            "박주현:juhyeon-24"
+            "이정은:2jung0205-dot"
+            "서준상:js76020863"
+            "최영효:yhyoii"
+            "김예령:rub2un"
+            "김나영:nayoungk12"
+            "김가연:kimgayeon-archive"
+            "황수현:stacyoct"
           )
 
           for info in "${members[@]}"
