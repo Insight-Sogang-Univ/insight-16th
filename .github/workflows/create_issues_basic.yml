@@ -70,6 +70,7 @@ jobs:
           ### ✅ 과제 제출 확인 사항
           - [ ] 본인의 브랜치에서 작업하고 add, commit, push 했나요?
           - [ ] develop <- 본인 브랜치로 pull request 했나요?
+          - [ ] 커밋메시지 양식: [sessionNN] #이슈번호 $name [이번차시명] 과제, [다음차시명] 사전과제 제출합니다.
           EOF
             )
 
