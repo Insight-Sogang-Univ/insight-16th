@@ -69,6 +69,7 @@ jobs:
             "김나영:nayoungk12"
             "김가연:kimgayeon-archive"
             "황수현:stacyoct"
+            "송우경:ubermensch4"
           )
 
           read -ra CURRENT_LIST <<< "$CURRENT_ASSIGNEE"
