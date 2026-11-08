@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: "과제 이슈 생성 및 학회원 할당"
         env:
@@ -47,11 +47,12 @@ jobs:
             "박주현:juhyeon-24"
             "이정은:2jung0205-dot"
             "서준상:js76020863"
-            "최영효:yhyoii"
+            "최영효:yhyhoii"
             "김예령:rub2un"
             "김나영:nayoungk12"
             "김가연:kimgayeon-archive"
             "황수현:stacyoct"
+            "송우경:ubermensch4"
           )
 
           for info in "${members[@]}"
@@ -69,6 +70,7 @@ jobs:
           ### ✅ 과제 제출 확인 사항
           - [ ] 본인의 브랜치에서 작업하고 add, commit, push 했나요?
           - [ ] develop <- 본인 브랜치로 pull request 했나요?
+          - [ ] 커밋메시지 양식: [sessionNN] #이슈번호 $name [이번차시명] 과제, [다음차시명] 사전과제 제출합니다.
           EOF
             )
 
